@@ -11,7 +11,7 @@ webview://https://live.fjtv.net/setv/
 #EXTINF:-1,tvg-id="海峡卫视" tvg-name="海峡卫视" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/海峡卫视.png" group-title="福建",,海峡卫视
 webview://https://live.fjtv.net/hxtv/
 #EXTINF:-1,tvg-id="福建综合" tvg-name="福建综合" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/福建综合.png" group-title="福建",,福建综合
-webview://	https://live.fjtv.net/zhpd/
+webview://https://live.fjtv.net/zhpd/
 #EXTINF:-1,tvg-id="福建新闻" tvg-name="福建新闻" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/福建新闻.png" group-title="福建",福建新闻
 webview://https://live.fjtv.net/xwpd/
 #EXTINF:-1,tvg-id="福建电视剧" tvg-name="福建电视剧" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/福建电视剧.png" group-title="福建",福建电视剧
