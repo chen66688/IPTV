@@ -4,6 +4,7 @@
     "wallpaper": "https://wp.upx8.com/api.php",
     "spider": "https://ghfast.top/https://raw.githubusercontent.com/88168/IPTV/refs/heads/main/xyq/spider.jar",
     "lives": [
+
         {
             "name": "BMCH",
             "type": 0,
@@ -11,16 +12,10 @@
             "epg": "https://epg.v1.mk/json?ch={name}&date={date}"
         },
         {
-            "name": "Tianmu",
+            "name": "webview.m3u",
             "type": 0,
-            "url": "https://ghfast.top/https://raw.githubusercontent.com/88168/IPTV/refs/heads/main/xyq/lives/Tianmu.txt",
+            "url": "https://ghfast.top/https://raw.githubusercontent.com/88168/IPTV/refs/heads/main/xyq/lives/webview.m3u",
             "epg": "https://epg.v1.mk/json?ch={name}&date={date}"
-        },
-        {
-            "name": "fanmingming",
-            "type": 0,
-            "url": "https://ghfast.top/https://raw.githubusercontent.com/88168/IPTV/refs/heads/main/xyq/lives/fanmingming.txt",
-            "epg": ""
         }
     ],
     "sites": [
