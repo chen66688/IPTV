@@ -1,4 +1,4 @@
-﻿💝 iptv福建移动频道,#genre#
+💝 iptv福建移动频道,#genre#
 
 CCTV-1,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226908/index.m3u8?rrsip=ott.fj.chinamobile.com&zoneoffset=0&servicetype=2&icpid=&accounttype=1&limitflux=-1&limitdur=-1&tenantId=8601&accountinfo=%2C10000127420524%2C183.251.240.57%2C20240312164122%2Cysten2_10000100000000050000000000996924%2C10001026346178%2C-1%2C0%2C1%2C-1%2C%2C7%2C100001%2C%2C%2C4%2C%2CEND&GuardEncType=2&it=H4sIAAAAAAAAAE2OwQqDMBBE_ybHYNKKXnKyFAolLWh7LRuzScVobKJC_74qHnpaZnlvmDFAjZeT0BxzZDkzyvBjelAq0VmacQYZcoW5IRE_0gtOanCu6a30etWeZfFijNM0oXw9nFRr4dmBFcnGyqlTGPawiCWGualR6GjoDJGCtQEtjI3v6d3B9xHcjhCs9nH95BwZ11BBbJcHeUMsfDdAQH31duOEAReRDFC3YFFCh3_eLehlxA-JYmOl7QAAAA
 CCTV-2,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225923/index.m3u8?rrsip=ott.fj.chinamobile.com&zoneoffset=0&servicetype=2&icpid=&accounttype=1&limitflux=-1&limitdur=-1&tenantId=8601&accountinfo=%2C10000127420524%2C183.251.240.57%2C20240312162754%2C10000100000000050000000001117125%2C10001026346178%2C-1%2C0%2C1%2C-1%2C%2C7%2C100001%2C%2C%2C4%2C%2CEND&GuardEncType=2&it=H4sIAAAAAAAAAE2OwQrCMBBE_ybH0ITa6iGniiBIFaxeZZpsYzFtNKmCf29bevC0vOXNMEOApv1WaZkL1DLNRJqlua43qck1oLO1oJE2LNKr9EoyDefa3pbeTLHrubgJIfkq4XI6klVT4c7BqmR2y3dXU1hgDJ4pfFpNysSGfxA5rA1kMbS-5yeH7yW4RWFULeP6t3NsmKBCfIwPdkcsfPdEIHPwdvZUAxeJPaEfsFSio7_cMZhxxA8J64Pi7QAAAA
@@ -75,10 +75,6 @@ CCTV13-HD,http://39.135.55.105:6610/PLTV/88888888/224/3221225817/index.m3u8?serv
 纪实人文,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227213/index.m3u8?rrsip=ott.fj.chinamobile.com&zoneoffset=0&servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&tenantId=8601&accountinfo=%2C10000127420524%2C183.251.240.57%2C20240312180317%2Cfmgott_1000010000000000000990071%2C10001026346178%2C-1%2C0%2C1%2C-1%2C%2C2%2C100001%2C%2C%2C2%2C%2CEND&GuardEncType=2&it=H4sIAAAAAAAAAE2OwQqDMBBE_ybHEFMresjJUigUW9D2WtZkk4rR2ESF_n1VPPS0zPLeMKMHiZeT0BzrJJEsTTSLsxTTTDOpUGkVZwtxIAE_hROcSLC26U3h1Ko9y_wVRZweGeXr4aRaC88WjGAbW0xdjX4Pi1iinxuJQgVNZwgUjPFoYGxcT-8Wvg9vd4RgtY_rJ2vJuIYKQrs8yBtC7roBPKqrMxsnNNiAZADZgsECOvzzbl4tI377fj9g7QAAAA
 
 
-莆田1套,webview://https://www.ptbtv.com/live/pt1t/
-莆田2套,webview://https://www.ptbtv.com/live/pt2t/
-仙游电视,webview://https://www.ptbtv.com/live/xyds/
-
 
 💝移动专区 ipv6央视频道,#genre#
 
@@ -103,8 +99,8 @@ CCTV-17,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
 
 💝 港 台 轮 播 ,#genre#
 
-环球电视,http://zb.xzxwhcb.com:9999/hls/world.m3u8
-凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx#http://php.jdshipin.com/TVOD/iptv.php?id=fhzx2
+
+凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx2
 凤凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
 凤凰香港台,http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8#http://zhibo.hkstv.tv:80/livestream/mutfysrq.flv
@@ -113,45 +109,6 @@ CCTV-17,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
 台视,rtmp://f13h.mine.nu/sat/tv071#rtmp://60.248.77.83/sat/tv071#rtmp://9hv9.mine.nu/sat/tv071
 民视,rtmp://f13h.mine.nu/sat/tv051#rtmp://60.248.77.83/sat/tv051#rtmp://9hv9.mine.nu/sat/tv051
 
-💝 ipv6 NewTV 4M系列,#genre#
-
-NewTV明星综合4M1080,http://39.134.67.2:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225664/index.m3u8#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225664/index.m3u8
-NewTV中国功夫 4M1080,http://39.135.55.105:6610/PLTV/88888888/224/3221225896/index.m3u8?servicetype=1#http://[2409:8087:1a0b:df::4001]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225681/index.m3u8#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225681/index.m3u8
-NewTV军事评论 4M1080,http://39.135.55.105:6610/PLTV/88888888/224/3221225890/index.m3u8?servicetype=1#http://[2409:8087:1a0b:df::4005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225668/index.m3u8#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225668/index.m3u8
-NewTV军旅剧场 4M1080,http://39.135.55.105:6610/PLTV/88888888/224/3221225887/index.m3u8?servicetype=1#http://[2409:8087:1a0b:df::4018]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225676/index.m3u8#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225676/index.m3u8
-NewTV动作电影 4M1080,http://39.135.55.105:6610/PLTV/88888888/224/3221225879/index.m3u8?servicetype=1
-NewTV古装剧场 4M1080,http://39.135.55.105:6610/PLTV/88888888/224/3221225880/index.m3u8?servicetype=1#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225663/index.m3u8
-NewTV家庭剧场 4M1080,http://39.135.55.105:6610/PLTV/88888888/224/3221225882/index.m3u8?servicetype=1#http://[2409:8087:1a0b:df::4007]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225677/index.m3u8#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225677/index.m3u8
-NewTV怡伴健康 4M1080,http://39.135.55.105:6610/PLTV/88888888/224/3221225883/index.m3u8?servicetype=1#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225673/index.m3u8
-NewTV惊悚悬疑 4M1080,http://39.135.55.105:6610/PLTV/88888888/224/3221225885/index.m3u8?servicetype=1#http://[2409:8087:1a0b:df::4002]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225665/index.m3u8#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225665/index.m3u8
-NewTV明星大片 4M1080,http://39.135.55.105:6610/PLTV/88888888/224/3221225893/index.m3u8?servicetype=1#http://[2409:8087:1a0b:df::4005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225664/index.m3u8
-NewTV武搏世界 4M1080,http://39.135.55.105:6610/PLTV/88888888/224/3221225895/index.m3u8?servicetype=1#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225680/index.m3u8
-NewTV潮妈辣婆 4M1080,http://39.135.55.105:6610/PLTV/88888888/224/3221226107/index.m3u8?servicetype=1#http://[2409:8087:1a0b:df::4007]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225685/index.m3u8#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225685/index.m3u8
-NewTV爱情喜剧 4M1080,http://39.135.55.105:6610/PLTV/88888888/224/3221225877/index.m3u8?servicetype=1#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225669/index.m3u8
-NewTV精品体育 4M1080,http://39.135.55.105:6610/PLTV/88888888/224/3221225886/index.m3u8?servicetype=1#http://[2409:8087:1a0b:df::4004]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225674/index.m3u8#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225674/index.m3u8
-NewTV精品大剧 4M1080,http://39.135.55.105:6610/PLTV/88888888/224/3221225889/index.m3u8?servicetype=1#http://[2409:8087:1a0b:df::4001]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225670/index.m3u8#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225670/index.m3u8
-NewTV精品纪录 4M1080,http://39.135.55.105:6610/PLTV/88888888/224/3221225888/index.m3u8?servicetype=1#http://[2409:8087:1a0b:df::4007]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225672/index.m3u8#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225672/index.m3u8
-NewTV金牌综艺 4M1080,http://39.135.55.105:6610/PLTV/88888888/224/3221225884/index.m3u8?servicetype=1#http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225666/index.m3u8#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225666/index.m3u8
-超级综艺,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225714/index.m3u8#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225714/index.m3u8
-超级体育,http://[2409:8087:1a0b:df::4017]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225715/index.m3u8#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225715/index.m3u8#http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225715/index.m3u8
-超级电影,http://[2409:8087:1a0b:df::4006]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225717/index.m3u8#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225717/index.m3u8#http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225717/index.m3u8
-超级电视剧,http://[2409:8087:1a0b:df::4017]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225716/index.m3u8#http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225716/index.m3u8#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225716/index.m3u8
-东北热剧,http://[2409:8087:1a0b:df::4017]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225741/index.m3u8#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225741/index.m3u8#http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225741/index.m3u8
-欢乐剧场,http://[2409:8087:1a0b:df::4017]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225742/index.m3u8#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225742/index.m3u8#http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225742/index.m3u8
-海外剧场,http://[2409:8087:1a0b:df::4005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225671/index.m3u8#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225671/index.m3u8
-梨园频道,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380788ba7bed/index.m3u8?AuthInfo=toEYVdLfxymUP2l9NZpQI5%2BK6T7j%2FlRm%2BvbM9VO7bA0q1S1k1f36SqqriM0FZoFSAJRfCt8SS7X6sTRmXb81a8O4H%2FdroDKjLoDeaMQdyJQ
-求索记录,http://[2409:8087:5e08:24::12]:6610/000000001000/2000000004000000010/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000010&IASHttpSessionId=OTT19019320240419154124000281
-求索动物,http://[2409:8087:5e08:24::12]:6610/000000001000/2000000004000000009/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000009&IASHttpSessionId=OTT19019320240419154124000281
-求索科学,http://[2409:8087:5e08:24::12]:6610/000000001000/2000000004000000011/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000011&IASHttpSessionId=OTT19019320240419154124000281
-求索生活,http://[2409:8087:5e08:24::12]:6610/000000001000/2000000004000000008/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000008&IASHttpSessionId=OTT19019320240419154124000281
-茶友频道,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638729d8aca53/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUSBx06ZL9Bo6JOM%2BSTjxZRIdUCZxTtaM%2Bza0L7mJjkPMmnEhAf%2Bi68sKjzRCbPoTU0E%2B6Pia2CkRtxgPs8Tmw7I
-快乐垂钓,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638729b6002c4/index.m3u8?m3u8_level=2
-纪实人文,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225738/index.m3u8#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225738/index.m3u8
-纪实科教,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225729/index.m3u8#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225729/index.m3u8
-乐游频道,http://[2409:8087:5e08:24::12]:6610/000000001000/2000000002000000092/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000092&IASHttpSessionId=OTT19019320240419154124000281
-黑莓动画,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225662/index.m3u8
-炫舞未来,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225719/index.m3u8
-农业致富,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225683/index.m3u8
 
 💝 ipv6 卫视频道,#genre#
 
@@ -199,387 +156,99 @@ CETV-4,http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/888888
 
 💝 电影系列.明星轮播,#genre#
 
-斗鱼电2y,http://tc-tct.douyucdn2.cn/dyliveflv1/122402rK7MO9bXSq_2000.flv?wsAuth=8cea39337984fd3341cc9ec569502e4f&token=cpn-androidmpro-0-122402-0fcea45d2300cfa0ac75fafd8679bb53af10de8c33ae99d9&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=p
-斗鱼电影1y,http://tc-tct.douyucdn2.cn/dyliveflv1a/20415rnWbjg6Ex1K_2000.flv?wsAuth=2ccc7b4ba29208aaba62dae54cbbd68c&token=cpn-androidmpro-0-20415-b6774b3b3249db17fff84d73c7585c95e780dbccdb08e4bc&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=p
-斗鱼电影3y,http://tc-tct.douyucdn2.cn/dyliveflv1/85894rmovieChow_2000.flv?wsAuth=7d054e041804e80af8aa7e975e2d8573&token=cpn-androidmpro-0-85894-a3575d938a4aa309c687f5fb85a1009fc65cfbeeb2672310&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=pla
-黑莓电影,http://[2409:8087:1a0b:df::4014]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/index.m3u8#http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010073/1.m3u8servicetype=1#http://39.134.66.66/PLTV/88888888/224/3221225681/index.m3u8#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/index.m3u8
-动作电影,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225661/index.m3u8
-CHC动作电影#http://cg1.hunancatv.cn:9090/live/CHCDZDY_8000.m3u8?t=GybtsMb6rF4QAbWTetat6g%3D%3D&u=HNTV01YU00021202&p=8&cid=100000189&pid=&l=1&d=48555E45F7FC&ip=192.168.197.8&n=CHCDZDY_8000&errorcode=0&sid=Cr7LfDpXE67QA0Nus2tGvg%3D%3D&r=20231212111337&e=20231212151337&nc=RcaFZlcDLlzv&a=1111&pd=60&errorReason=0&v=2&project=WNTV&hlsSessionID=4379470835422696805&srchost=172.16.22.158:8060&gid=f1hKFIYFjbQUf%2BTk5FhuTg%3D%3D#https://pi.0472.org/livetv/chcdz.m3u8
-CHC影迷电影,http://cg6.hunancatv.cn:9090/live/CHCGQ_8000.m3u8?t=VwFiKC8%2Fi8f%2B6CDdOS5f5A%3D%3D&u=HNTV01YU00021202&p=8&cid=10000081&pid=&l=1&d=48555E45F7FC&ip=192.168.197.127&n=CHCGQ_8000&errorcode=0&sid=MlE%2BuV%2FON7MM6310fiBTpg%3D%3D&r=20231212111248&e=20231212151248&nc=bHZFrU2ASl02&a=1111&pd=60&errorReason=0&v=2&project=WNTV&hlsSessionID=4379470835422696237&srchost=172.16.22.158:8060&gid=P%2BUM0yvAUJ7cFgaqUZr56A%3D%3D#https://pi.0472.org/livetv/chcym.m3u8
-CHC家庭影院,http://cg14.hunancatv.cn:9090/live/CHCJTYY_8000.m3u8?t=D360byGt%2BpZL3Wo1xiFxAw%3D%3D&u=HNTV01YU00021202&p=8&cid=100000190&pid=&l=1&d=48555E45F7FC&ip=192.168.197.125&n=CHCJTYY_8000&errorcode=0&sid=dc0dvd1mPBtLnOcG8ia8jA%3D%3D&r=20231212111401&e=20231212151401&nc=XOLY5A6gm03W&a=1111&pd=60&errorReason=0&v=2&project=WNTV&hlsSessionID=4379470835422697120&srchost=172.16.22.158:8060&gid=DHldhfgdMMpjpVp6NSOZqw%3D%3D#https://pi.0472.org/livetv/chcjt.m3u8
-警匪片,https://www.goodiptv.club/huya/11352886#http://8.137.57.240:81/hy.php?url=11352886
-电影大片,https://www.goodiptv.club/huya/21059585
-喜剧经典,https://www.goodiptv.club/huya/11342423
-经典影院,https://www.goodiptv.club/huya/11601986
-动作电影,https://www.goodiptv.club/huya/11352941
-影视轮播林正英,https://www.goodiptv.club/huya/11342421
-影视轮播甄子丹,https://www.goodiptv.club/huya/11352935
-影视轮播粱家辉,https://www.goodiptv.club/huya/11342429
-影视轮播沈腾,https://www.goodiptv.club/huya/11601968
-影视轮播刘德华,https://www.goodiptv.club/huya/11342424#,http://epg.112114.xyz/douyu/2516864#https://stream1.freetv.fun/145828181728c436be98d67db1031e0e8a7154dfbc7d8357d607be9ad585a268.ctv#https://live.metshop.top/huya/11342424#http://mmitv.top/pltv/huya.php?id=11342424#https://epg.112114.xyz/huya/11342424#http://cfss.cc/cdn/hy/11342424.flv#http://159.75.85.63:35455/douyu/2516864
-影视轮播金庸,https://www.goodiptv.club/huya/11342435
-影视轮播周润发,https://www.goodiptv.club/huya/11342387#https://live.metshop.top/huya/11342412#https://epg.112114.xyz/huya/11342412#https://live.metshop.top/huya/11342387#http://mmitv.top/pltv/huya.php?id=11342387#https://epg.112114.xyz/huya/11342387#http://cfss.cc/cdn/hy/11342387.flv
-影视轮播徐峥,https://live.metshop.top/huya/11352876#http://mmitv.top/pltv/huya.php?id=11352876#http://cfss.cc/cdn/hy/11352876.flv#https://epg.112114.xyz/huya/11352876
-影视轮播成龙,https://www.goodiptv.club/huya/11342386#https://live.metshop.top/huya/11342386#http://mmitv.top/pltv/huya.php?id=11342386#https://epg.112114.xyz/huya/11342386#http://cfss.cc/cdn/hy/11342386.flv
-影视轮播李连杰,https://www.goodiptv.club/huya/11342390
-影视轮播周星驰,https://www.goodiptv.club/huya/11342412#http://cfss.cc/cdn/hy/11342412.flv#https://live.metshop.top/huya/11342412#http://mmitv.top/pltv/huya.php?id=11342412#https://epg.112114.xyz/huya/11342412#http://159.75.85.63:35455/douyu/122402#http://epg.112114.xyz/douyu/122402#https://live.metshop.top/huya/11342412#http://mmitv.top/pltv/huya.php?id=11342412#http://cfss.cc/cdn/hy/11342412.flv#https://epg.112114.xyz/huya/11342412#http://159.75.85.63:35455/douyu/122402#http://epg.112114.xyz/douyu/122402
-邵氏影院@代,https://www.goodiptv.club/douyu/4246519#http://huanqiuzhibo.cn/manifest/douyu.php?id=4246519
-CCtv6影院代,http://mobilelive-ds.ysp.cctv.cn/ysp/2013693901.m3u8
-1905国内电影,http://xxw.me0.cn/1905dy.php?id=1905a#https://stream1.freetv.fun/c90deb63a57dd1f999a2c662d45ca501c5f271dcc46bf2b3d1384f7a3c498c35.ctv
+电影轮播,#genre#
 
+电影_星爷,http://cfss.cc/cdn/hy/11342412.flv
+电影_英叔,http://cfss.cc/cdn/hy/11342421.flv
+电影_发哥,http://cfss.cc/cdn/hy/11342387.flv
+电影_成龙,http://cfss.cc/cdn/hy/11342386.flv
+电影_王晶,http://cfss.cc/cdn/hy/11602058.flv
+电影_沈腾,http://cfss.cc/cdn/hy/11601968.flv
+电影_黄渤,http://cfss.cc/cdn/hy/11352876.flv
+电影_强森,http://cfss.cc/cdn/hy/21059581.flv
+电影_漫威,http://cfss.cc/cdn/hy/11602034.flv
+电影_宇宙,http://cfss.cc/cdn/hy/11342428.flv
+电影_怪兽,http://cfss.cc/cdn/hy/21059577.flv
+电影_贺岁,http://cfss.cc/cdn/hy/11601971.flv
+电影_玄幻,http://cfss.cc/cdn/hy/11342414.flv
+电影_谍战,http://cfss.cc/cdn/hy/21059585.flv
+电影_战争,http://cfss.cc/cdn/hy/21059592.flv
+电影_喜剧,http://cfss.cc/cdn/hy/11352877.flv
+电影_港片,http://cfss.cc/cdn/hy/11602043.flv
+电影_国产,http://cfss.cc/cdn/hy/11352973.flv
+电影_周星星,http://cfss.cc/cdn/hy/11336587.flv
+电影_李连杰,http://cfss.cc/cdn/hy/11342390.flv
+电影_洪金宝,http://cfss.cc/cdn/hy/11279251.flv
+电影_梁家辉,http://cfss.cc/cdn/hy/11342429.flv
+电影_许冠英,http://cfss.cc/cdn/hy/11601972.flv
+电影_刘德华,http://cfss.cc/cdn/hy/11342424.flv
+电影_斯坦森,http://cfss.cc/cdn/hy/21059588.flv
+电影_蜘蛛侠,http://cfss.cc/cdn/hy/21059599.flv
+电影_贺岁片,http://cfss.cc/cdn/hy/11601986.flv
+电影_功夫片,http://cfss.cc/cdn/hy/11352941.flv
+电影_黑帮片,http://cfss.cc/cdn/hy/11336719.flv
+电影_丧尸片,http://cfss.cc/cdn/hy/21059578.flv
+电影_灾难片,http://cfss.cc/cdn/hy/11602075.flv
+电影_谍战片,http://cfss.cc/cdn/hy/21059587.flv
+电影_战争片,http://cfss.cc/cdn/hy/21059574.flv
+电影_古装片,http://cfss.cc/cdn/hy/11336590.flv
+电影_高分动作,http://cfss.cc/cdn/hy/11352884.flv
+电影_动作电影,http://cfss.cc/cdn/hy/11602077.flv
+电影_搞笑喜剧,http://cfss.cc/cdn/hy/11342423.flv
+电影_喜剧专场,http://cfss.cc/cdn/hy/11602044.flv
+电影_欢笑影院,http://cfss.cc/cdn/hy/11352894.flv
+电影_不挤影院,http://cfss.cc/cdn/hy/11352897.flv
+电影_国产悬疑,http://cfss.cc/cdn/hy/11342395.flv
+电影_快意江湖,http://cfss.cc/cdn/hy/11342435.flv
+电影_黑帮斗争,http://cfss.cc/cdn/hy/11342419.flv
+电影_古墓系列,http://cfss.cc/cdn/hy/11352913.flv
+电影_嫣然影厅,http://cfss.cc/cdn/hy/11601977.flv
+电影_女神系列,http://cfss.cc/cdn/hy/11336571.flv
+电影_经典女神,http://cfss.cc/cdn/hy/11352909.flv
+电影_经典港片,http://cfss.cc/cdn/hy/11352965.flv
+电影_喜乐影院,http://cfss.cc/cdn/hy/21059580.flv
+电影_蘑菇影厅,http://cfss.cc/cdn/hy/11601981.flv
+电影_搞笑恐怖,http://cfss.cc/cdn/hy/11601960.flv
+电影_死神来了,http://cfss.cc/cdn/hy/11352903.flv
+电影_变形金刚,http://cfss.cc/cdn/hy/21059596.flv
+电影_怪兽系列,http://cfss.cc/cdn/hy/21059554.flv
+搞笑_陈翔六点半,http://cfss.cc/cdn/hy/11274154.flv
 
-💝电影轮播,#genre#
+古装剧,http://maomao.kandiantv.cn/douyu1.php?id=338759
 
-1905国外,http://xxw.me0.cn/1905dy.php?id=1905b
-1905国内,http://xxw.me0.cn/1905dy.php?id=1905a
-吃米滴虫✔原,http://159.75.85.63:35455/douyu/315457
-冰冰经典✔原,http://159.75.85.63:35455/douyu/74374
-星爷影院✔原,http://159.75.85.63:35455/douyu/508118
-邵氏影院,http://maomao.kandiantv.cn/douyu1.php?id=4246519
-电影_经典港片,http://iptv.com.gerss.cn/huya/11352965
-电影_喜乐影院,http://iptv.com.gerss.cn/huya/21059580
-电影_搞笑恐怖,http://iptv.com.gerss.cn/huya/11601960
-周星星,http://120.77.28.4:8648/huya.php?id=11336587
-小鬼头,http://120.77.28.4:8648/huya.php?id=11352963
-刘德华,http://120.77.28.4:8648/huya.php?id=11342424
-许冠英,http://120.77.28.4:8648/huya.php?id=11601972
-李连杰,http://120.77.28.4:8648/huya.php?id=11342390
-甄子丹,http://120.77.28.4:8648/huya.php?id=11352935
-星爷,http://120.77.28.4:8648/huya.php?id=11342412
-英叔,http://120.77.28.4:8648/huya.php?id=11342421
-成龙,http://120.77.28.4:8648/huya.php?id=11342386
-王晶,http://120.77.28.4:8648/huya.php?id=11602058
-沈腾,http://120.77.28.4:8648/huya.php?id=11601968
-黄渤,http://120.77.28.4:8648/huya.php?id=11352876
-吴京,http://120.77.28.4:8648/huya.php?id=11602041
-强森,http://120.77.28.4:8648/huya.php?id=21059581
-怪兽,http://120.77.28.4:8648/huya.php?id=21059577
-武侠,http://120.77.28.4:8648/huya.php?id=11342427
-罪犯,http://120.77.28.4:8648/huya.php?id=11352962
-枪战,http://120.77.28.4:8648/huya.php?id=21059579
-盗墓,http://120.77.28.4:8648/huya.php?id=21059552
-贺岁,http://120.77.28.4:8648/huya.php?id=11601971
-玄幻,http://120.77.28.4:8648/huya.php?id=11342414
-喜剧,http://120.77.28.4:8648/huya.php?id=11352877
-港片,http://120.77.28.4:8648/huya.php?id=11602043
-国产,http://120.77.28.4:8648/huya.php?id=11352973
-喜剧专场,http://120.77.28.4:8648/huya.php?id=11602044
-高分动作,http://120.77.28.4:8648/huya.php?id=11352884
-不挤影院,http://120.77.28.4:8648/huya.php?id=11352897
-黑帮斗争,http://120.77.28.4:8648/huya.php?id=11342419
-嫣然影厅,http://120.77.28.4:8648/huya.php?id=11601977
-女神系列,http://120.77.28.4:8648/huya.php?id=11336571
-经典女神,http://120.77.28.4:8648/huya.php?id=11352909
-许氏三杰,http://120.77.28.4:8648/huya.php?id=11602033
-经典港片,http://120.77.28.4:8648/huya.php?id=11352965
-镖行天下,http://120.77.28.4:8648/huya.php?id=11352969
-蘑菇影厅,http://120.77.28.4:8648/huya.php?id=11601981
-搞笑恐怖,http://120.77.28.4:8648/huya.php?id=11601960
-死神来了,http://120.77.28.4:8648/huya.php?id=11352903
-电影_发哥,http://120.77.28.4:8648/huya.php?id=11342387
-电影_漫威,http://120.77.28.4:8648/huya.php?id=11602034
-电影_宇宙,http://120.77.28.4:8648/huya.php?id=11342428
-电影_警匪,http://120.77.28.4:8648/huya.php?id=11352886
-电影_海盗,http://120.77.28.4:8648/huya.php?id=21059595
-电影_赛车,http://120.77.28.4:8648/huya.php?id=11279247
-电影_救援,http://120.77.28.4:8648/huya.php?id=21059594
-电影_热血,http://120.77.28.4:8648/huya.php?id=11352934
-电影_谍战,http://120.77.28.4:8648/huya.php?id=21059585
-电影_战争,http://120.77.28.4:8648/huya.php?id=21059592
-电影_洪金宝,http://120.77.28.4:8648/huya.php?id=11279251
-电影_梁家辉,http://120.77.28.4:8648/huya.php?id=11342429
-电影_斯坦森,http://120.77.28.4:8648/huya.php?id=21059588
-电影_八点档,http://120.77.28.4:8648/huya.php?id=880261
-电影_蜘蛛侠,http://120.77.28.4:8648/huya.php?id=21059599
-电影_贺岁片,http://120.77.28.4:8648/huya.php?id=11601986
-电影_功夫片,http://120.77.28.4:8648/huya.php?id=11352941
-电影_黑帮片,http://120.77.28.4:8648/huya.php?id=11336719
-电影_丧尸片,http://120.77.28.4:8648/huya.php?id=21059578
-电影_灾难片,http://120.77.28.4:8648/huya.php?id=11602075
-电影_谍战片,http://120.77.28.4:8648/huya.php?id=21059587
-电影_战争片,http://120.77.28.4:8648/huya.php?id=21059574
-电影_犯罪片,http://120.77.28.4:8648/huya.php?id=11352974
-电影_古装片,http://120.77.28.4:8648/huya.php?id=11336590
-电影_动作电影,http://120.77.28.4:8648/huya.php?id=11602077
-电影_搞笑喜剧,http://120.77.28.4:8648/huya.php?id=11342423
-电影_欢笑影院,http://120.77.28.4:8648/huya.php?id=11352894
-电影_国产悬疑,http://120.77.28.4:8648/huya.php?id=11342395
-电影_快意江湖,http://120.77.28.4:8648/huya.php?id=11342435
-电影_高能反转,http://120.77.28.4:8648/huya.php?id=11352887
-电影_喜乐影院,http://120.77.28.4:8648/huya.php?id=21059580
-电影_变形金刚,http://120.77.28.4:8648/huya.php?id=21059596
-电影_怪兽系列,http://120.77.28.4:8648/huya.php?id=21059554
-电影_发哥,http://120.77.28.4:8648/huya.php?id=11342387
-电影_漫威,http://120.77.28.4:8648/huya.php?id=11602034
-电影_宇宙,http://120.77.28.4:8648/huya.php?id=11342428
-电影_警匪,http://120.77.28.4:8648/huya.php?id=11352886
-电影_海盗,http://120.77.28.4:8648/huya.php?id=21059595
-电影_赛车,http://120.77.28.4:8648/huya.php?id=11279247
-电影_救援,http://120.77.28.4:8648/huya.php?id=21059594
-电影_热血,http://120.77.28.4:8648/huya.php?id=11352934
-电影_谍战,http://120.77.28.4:8648/huya.php?id=21059585
-电影_战争,http://120.77.28.4:8648/huya.php?id=21059592
-电影_洪金宝,http://120.77.28.4:8648/huya.php?id=11279251
-电影_梁家辉,http://120.77.28.4:8648/huya.php?id=11342429
-电影_斯坦森,http://120.77.28.4:8648/huya.php?id=21059588
-电影_八点档,http://120.77.28.4:8648/huya.php?id=880261
-电影_蜘蛛侠,http://120.77.28.4:8648/huya.php?id=21059599
-电影_贺岁片,http://120.77.28.4:8648/huya.php?id=11601986
-电影_功夫片,http://120.77.28.4:8648/huya.php?id=11352941
-电影_黑帮片,http://120.77.28.4:8648/huya.php?id=11336719
-电影_丧尸片,http://120.77.28.4:8648/huya.php?id=21059578
-电影_灾难片,http://120.77.28.4:8648/huya.php?id=11602075
-电影_谍战片,http://120.77.28.4:8648/huya.php?id=21059587
-电影_战争片,http://120.77.28.4:8648/huya.php?id=21059574
-电影_犯罪片,http://120.77.28.4:8648/huya.php?id=11352974
-电影_古装片,http://120.77.28.4:8648/huya.php?id=11336590
-电影_动作电影,http://120.77.28.4:8648/huya.php?id=11602077
-电影_搞笑喜剧,http://120.77.28.4:8648/huya.php?id=11342423
-电影_欢笑影院,http://120.77.28.4:8648/huya.php?id=11352894
-电影_国产悬疑,http://120.77.28.4:8648/huya.php?id=11342395
-电影_快意江湖,http://120.77.28.4:8648/huya.php?id=11342435
-电影_高能反转,http://120.77.28.4:8648/huya.php?id=11352887
-电影_喜乐影院,http://120.77.28.4:8648/huya.php?id=21059580
-电影_变形金刚,http://120.77.28.4:8648/huya.php?id=21059596
-电影_怪兽系列,http://120.77.28.4:8648/huya.php?id=21059554
-电影_贺岁,http://120.77.28.4:8648/huya.php?id=11601971
-电影_玄幻,http://120.77.28.4:8648/huya.php?id=11342414
-电影_谍战,http://120.77.28.4:8648/huya.php?id=21059585
-电影_战争,http://120.77.28.4:8648/huya.php?id=21059592
-电影_喜剧,http://120.77.28.4:8648/huya.php?id=11352877
-电影_国产,http://120.77.28.4:8648/huya.php?id=11352973
-电影_周星星,http://120.77.28.4:8648/huya.php?id=11336587
-电影_梁家辉,http://120.77.28.4:8648/huya.php?id=11342429
-电影_斯坦森,http://120.77.28.4:8648/huya.php?id=21059588
-电影_八点档,http://120.77.28.4:8648/huya.php?id=880261
-电影_喜剧专场,http://120.77.28.4:8648/huya.php?id=11602044
-电影_欢笑影院,http://120.77.28.4:8648/huya.php?id=11352894
-电影_不挤影院,http://120.77.28.4:8648/huya.php?id=11352897
-电影_国产悬疑,http://120.77.28.4:8648/huya.php?id=11342395
-电影_黑帮斗争,http://120.77.28.4:8648/huya.php?id=11342419
-电影_镖行天下,http://120.77.28.4:8648/huya.php?id=11352969
-电影_高能反转,http://120.77.28.4:8648/huya.php?id=11352887
-电影_沈腾,http://120.77.28.4:8648/huya.php?id=11601968
-电影_黄渤,http://120.77.28.4:8648/huya.php?id=11352876
-电影_怪兽,http://120.77.28.4:8648/huya.php?id=21059577
-电影_警匪,http://120.77.28.4:8648/huya.php?id=11352886
-电影_罪犯,http://120.77.28.4:8648/huya.php?id=11352962
-电影_枪战,http://120.77.28.4:8648/huya.php?id=21059579
-电影_海盗,http://120.77.28.4:8648/huya.php?id=21059595
-电影_赛车,http://120.77.28.4:8648/huya.php?id=11279247
-电影_国产,http://120.77.28.4:8648/huya.php?id=11602041
-电影_星爷,http://120.77.28.4:8648/huya.php?id=11342412
-电影_英叔,http://120.77.28.4:8648/huya.php?id=11342421
-电影_发哥,http://120.77.28.4:8648/huya.php?id=11342387
-电影_成龙,http://120.77.28.4:8648/huya.php?id=11342386
-电影_王晶,http://120.77.28.4:8648/huya.php?id=11602058
-电影_强森,http://120.77.28.4:8648/huya.php?id=21059581
-电影_漫威,http://120.77.28.4:8648/huya.php?id=11602034
-电影_宇宙,http://120.77.28.4:8648/huya.php?id=11342428
-电影_武侠,http://120.77.28.4:8648/huya.php?id=11342427
-电影_救援,http://120.77.28.4:8648/huya.php?id=21059594
-电影_热血,http://120.77.28.4:8648/huya.php?id=11352934
-电影_盗墓,http://120.77.28.4:8648/huya.php?id=21059552
-电影_贺岁,http://120.77.28.4:8648/huya.php?id=11601971
-电影_玄幻,http://120.77.28.4:8648/huya.php?id=11342414
-电影_谍战,http://120.77.28.4:8648/huya.php?id=21059585
-电影_战争,http://120.77.28.4:8648/huya.php?id=21059592
-电影_喜剧,http://120.77.28.4:8648/huya.php?id=11352877
-电影_港片,http://120.77.28.4:8648/huya.php?id=11602043
-电影_国产,http://120.77.28.4:8648/huya.php?id=11352973
-电影_周星星,http://120.77.28.4:8648/huya.php?id=11336587
-电影_李连杰,http://120.77.28.4:8648/huya.php?id=11342390
-电影_洪金宝,http://120.77.28.4:8648/huya.php?id=11279251
-电影_梁家辉,http://120.77.28.4:8648/huya.php?id=11342429
-电影_许冠英,http://120.77.28.4:8648/huya.php?id=11601972
-电影_刘德华,http://120.77.28.4:8648/huya.php?id=11342424
-电影_斯坦森,http://120.77.28.4:8648/huya.php?id=21059588
-电影_八点档,http://120.77.28.4:8648/huya.php?id=880261
-电影_蜘蛛侠,http://120.77.28.4:8648/huya.php?id=21059599
-电影_贺岁片,http://120.77.28.4:8648/huya.php?id=11601986
-电影_功夫片,http://120.77.28.4:8648/huya.php?id=11352941
-电影_黑帮片,http://120.77.28.4:8648/huya.php?id=11336719
-电影_丧尸片,http://120.77.28.4:8648/huya.php?id=21059578
-电影_灾难片,http://120.77.28.4:8648/huya.php?id=11602075
-电影_谍战片,http://120.77.28.4:8648/huya.php?id=21059587
-电影_战争片,http://120.77.28.4:8648/huya.php?id=21059574
-电影_犯罪片,http://120.77.28.4:8648/huya.php?id=11352974
-电影_古装片,http://120.77.28.4:8648/huya.php?id=11336590
-电影_高分动作,http://120.77.28.4:8648/huya.php?id=11352884
-电影_动作电影,http://120.77.28.4:8648/huya.php?id=11602077
-电影_搞笑喜剧,http://120.77.28.4:8648/huya.php?id=11342423
-电影_喜剧专场,http://120.77.28.4:8648/huya.php?id=11602044
-电影_欢笑影院,http://120.77.28.4:8648/huya.php?id=11352894
-电影_不挤影院,http://120.77.28.4:8648/huya.php?id=11352897
-电影_国产悬疑,http://120.77.28.4:8648/huya.php?id=11342395
-电影_快意江湖,http://120.77.28.4:8648/huya.php?id=11342435
-电影_黑帮斗争,http://120.77.28.4:8648/huya.php?id=11342419
-电影_古墓系列,http://120.77.28.4:8648/huya.php?id=11352913
-电影_嫣然影厅,http://120.77.28.4:8648/huya.php?id=11601977
-电影_女神系列,http://120.77.28.4:8648/huya.php?id=11336571
-电影_经典女神,http://120.77.28.4:8648/huya.php?id=11352909
-电影_许氏三杰,http://120.77.28.4:8648/huya.php?id=11602033
-电影_经典港片,http://120.77.28.4:8648/huya.php?id=11352965
-电影_镖行天下,http://120.77.28.4:8648/huya.php?id=11352969
-电影_高能反转,http://120.77.28.4:8648/huya.php?id=11352887
-电影_喜乐影院,http://120.77.28.4:8648/huya.php?id=21059580
-电影_蘑菇影厅,http://120.77.28.4:8648/huya.php?id=11601981
-电影_搞笑恐怖,http://120.77.28.4:8648/huya.php?id=11601960
-电影_死神来了,http://120.77.28.4:8648/huya.php?id=11352903
-电影_变形金刚,http://120.77.28.4:8648/huya.php?id=21059596
-电影_怪兽系列,http://120.77.28.4:8648/huya.php?id=21059554
-搞笑_陈翔六点半,http://120.77.28.4:8648/huya.php?id=11274154
-周星驰,http://huanqiuzhibo.cn/manifest/douyu.php?id=122402
-刘德华,http://huanqiuzhibo.cn/manifest/douyu.php?id=2516864
-好先生,http://huanqiuzhibo.cn/manifest/douyu.php?id=9650792
-庆余年,http://huanqiuzhibo.cn/manifest/douyu.php?id=5908256
-欢乐综艺,http://huanqiuzhibo.cn/manifest/douyu.php?id=131977
-万合出品,http://huanqiuzhibo.cn/manifest/douyu.php?id=9220456
-吃米滴虫,http://huanqiuzhibo.cn/manifest/douyu.php?id=315457
-高分电影,http://huanqiuzhibo.cn/manifest/douyu.php?id=7254536
-豆瓣高分,http://huanqiuzhibo.cn/manifest/douyu.php?id=8770422
-漫威影院,http://huanqiuzhibo.cn/manifest/douyu.php?id=6140589
-特辑电影,http://huanqiuzhibo.cn/manifest/douyu.php?id=3637778
-粤语电影,http://huanqiuzhibo.cn/manifest/douyu.php?id=1226741
-粤语电影,http://huanqiuzhibo.cn/manifest/douyu.php?id=6566671
-国产电影,http://huanqiuzhibo.cn/manifest/douyu.php?id=5423
-精彩电影,http://huanqiuzhibo.cn/manifest/douyu.php?id=9650887
-喜剧电影,http://huanqiuzhibo.cn/manifest/douyu.php?id=323876
-动作电影,http://huanqiuzhibo.cn/manifest/douyu.php?id=6763930
-恐怖电影,http://huanqiuzhibo.cn/manifest/douyu.php?id=218859
-恐怖鬼怪,http://huanqiuzhibo.cn/manifest/douyu.php?id=1165374
-童年阴影,http://huanqiuzhibo.cn/manifest/douyu.php?id=2935323
-惊悚电影,http://huanqiuzhibo.cn/manifest/douyu.php?id=96577
-华语影视,http://huanqiuzhibo.cn/manifest/douyu.php?id=3928
-神乐影视,http://huanqiuzhibo.cn/manifest/douyu.php?id=85894
-周末影院,http://huanqiuzhibo.cn/manifest/douyu.php?id=3637765
-周末电影,http://huanqiuzhibo.cn/manifest/douyu.php?id=3637726
-兔子影厅,http://huanqiuzhibo.cn/manifest/douyu.php?id=8985415
-冰冰影厅,http://huanqiuzhibo.cn/manifest/douyu.php?id=74374
-刀刀影院,http://huanqiuzhibo.cn/manifest/douyu.php?id=747764
-奶虫影院,http://huanqiuzhibo.cn/manifest/douyu.php?id=263824
-贝爷壹厅,http://huanqiuzhibo.cn/manifest/douyu.php?id=252802
-贝爷贰厅,http://huanqiuzhibo.cn/manifest/douyu.php?id=4332
-贝爷叁厅,http://huanqiuzhibo.cn/manifest/douyu.php?id=36337
-凌儿影院,http://huanqiuzhibo.cn/manifest/douyu.php?id=1377142
-云宝影院,http://huanqiuzhibo.cn/manifest/douyu.php?id=7305938
-花卷影院,http://huanqiuzhibo.cn/manifest/douyu.php?id=52787
-菜园小饼,http://huanqiuzhibo.cn/manifest/douyu.php?id=1735337
-米娅影院,http://huanqiuzhibo.cn/manifest/douyu.php?id=6537888
-橙記港剧,http://huanqiuzhibo.cn/manifest/douyu.php?id=4549169
-大宝影视,http://huanqiuzhibo.cn/manifest/douyu.php?id=805235
-蚂蚱影视,http://huanqiuzhibo.cn/manifest/douyu.php?id=6079455
-怡寶影视,http://huanqiuzhibo.cn/manifest/douyu.php?id=434971
-圆子影视,http://huanqiuzhibo.cn/manifest/douyu.php?id=6566658
-贝贝影视,http://huanqiuzhibo.cn/manifest/douyu.php?id=431460
-可乐影视,http://huanqiuzhibo.cn/manifest/douyu.php?id=20415
-萌牛影视,http://huanqiuzhibo.cn/manifest/douyu.php?id=7494871
-兔兔影视,http://huanqiuzhibo.cn/manifest/douyu.php?id=1504768
-无双影视,http://huanqiuzhibo.cn/manifest/douyu.php?id=4870914
-下饭神剧,http://huanqiuzhibo.cn/manifest/douyu.php?id=276200
-古装神剧,http://huanqiuzhibo.cn/manifest/douyu.php?id=338759
-晚湾影视,http://huanqiuzhibo.cn/manifest/douyu.php?id=9461178
-酒染影视,http://huanqiuzhibo.cn/manifest/douyu.php?id=7550220
-芊珏影视,http://huanqiuzhibo.cn/manifest/douyu.php?id=8814650
-热门港剧,http://huanqiuzhibo.cn/manifest/douyu.php?id=5522351
-盗墓剧集,http://huanqiuzhibo.cn/manifest/douyu.php?id=9292503
-金庸武侠,http://huanqiuzhibo.cn/manifest/douyu.php?id=7644931
-国产剧集,http://huanqiuzhibo.cn/manifest/douyu.php?id=8157860
-国产剧场,http://huanqiuzhibo.cn/manifest/douyu.php?id=308752
-爱情公寓,http://huanqiuzhibo.cn/manifest/douyu.php?id=2838296
-经典剧集,http://huanqiuzhibo.cn/manifest/douyu.php?id=6863367
-李卫当官,http://huanqiuzhibo.cn/manifest/douyu.php?id=7473576
-龙门镖局,http://huanqiuzhibo.cn/manifest/douyu.php?id=9650860
-雍正王朝,http://huanqiuzhibo.cn/manifest/douyu.php?id=4944033
-雍正帝王,http://huanqiuzhibo.cn/manifest/douyu.php?id=9650836
-隋唐演义,http://huanqiuzhibo.cn/manifest/douyu.php?id=7552568
-大宋神探,http://huanqiuzhibo.cn/manifest/douyu.php?id=7784862
-音乐欣赏,http://huanqiuzhibo.cn/manifest/douyu.php?id=3186217
-舌尖美食,http://huanqiuzhibo.cn/manifest/douyu.php?id=9650849
-篮球人物,http://huanqiuzhibo.cn/manifest/douyu.php?id=8434598
-史君说剧,http://huanqiuzhibo.cn/manifest/douyu.php?id=9419771
-史剧解说,http://huanqiuzhibo.cn/manifest/douyu.php?id=297689
-老秦说剧,http://huanqiuzhibo.cn/manifest/douyu.php?id=9650131
-老蔡解说,http://huanqiuzhibo.cn/manifest/douyu.php?id=8869614
-长片短解,http://huanqiuzhibo.cn/manifest/douyu.php?id=9410946
-宇哥解说,http://huanqiuzhibo.cn/manifest/douyu.php?id=8651489
-夜魔人老王,http://huanqiuzhibo.cn/manifest/douyu.php?id=610972
-皮皮看动漫,http://huanqiuzhibo.cn/manifest/douyu.php?id=9837291
-开心锤动漫,http://huanqiuzhibo.cn/manifest/douyu.php?id=9018297
-拳叔二次元,http://huanqiuzhibo.cn/manifest/douyu.php?id=9484105
-老邪说电影,http://huanqiuzhibo.cn/manifest/douyu.php?id=9222870
-洗碗君解说,http://huanqiuzhibo.cn/manifest/douyu.php?id=9446706
-百晓生说剧,http://huanqiuzhibo.cn/manifest/douyu.php?id=9649681
-百晓生解说,http://huanqiuzhibo.cn/manifest/douyu.php?id=9653063
-小司马说剧,http://huanqiuzhibo.cn/manifest/douyu.php?id=4808115
-小司马解说,http://huanqiuzhibo.cn/manifest/douyu.php?id=9660127
-星君说电影,http://huanqiuzhibo.cn/manifest/douyu.php?id=8014467
-刘哔讲电影,http://huanqiuzhibo.cn/manifest/douyu.php?id=2632223
-老王说电影,http://huanqiuzhibo.cn/manifest/douyu.php?id=9687733
-贤于说电影,http://huanqiuzhibo.cn/manifest/douyu.php?id=9461990
-牛叔说电影,http://huanqiuzhibo.cn/manifest/douyu.php?id=2758565
-侃片大师兄,http://huanqiuzhibo.cn/manifest/douyu.php?id=9338839
-虫哥说电影,http://huanqiuzhibo.cn/manifest/douyu.php?id=8915074
-电影迷小雅,http://huanqiuzhibo.cn/manifest/douyu.php?id=9639225
-1900影剧室,http://huanqiuzhibo.cn/manifest/douyu.php?id=7796193
-刘老师说电影,http://huanqiuzhibo.cn/manifest/douyu.php?id=8317926
-来呀官人解说,http://huanqiuzhibo.cn/manifest/douyu.php?id=9986305
-科幻Fans布玛,http://huanqiuzhibo.cn/manifest/douyu.php?id=3508304
-小片片说大片,http://huanqiuzhibo.cn/manifest/douyu.php?id=4258555
-大片片说小片,http://huanqiuzhibo.cn/manifest/douyu.php?id=7489563
-火龙果说电影,http://huanqiuzhibo.cn/manifest/douyu.php?id=9559158
-成龙电影,http://120.77.28.4:8648/yy.php?id=1354888751
-古惑仔电影,http://120.77.28.4:8648/yy.php?id=1354507447
-经典港片,http://120.77.28.4:8648/yy.php?id=1355263385
-沈腾电影,http://120.77.28.4:8648/yy.php?id=1354936191
-刘德华电影,http://120.77.28.4:8648/yy.php?id=1382745111
-周星驰电影,http://120.77.28.4:8648/yy.php?id=1354658049
-林正英电影,http://120.77.28.4:8648/yy.php?id=1453996620
-林正英电影,http://120.77.28.4:8648/yy.php?id=1382841203
-李连杰电影,http://120.77.28.4:8648/yy.php?id=74613175
-周润发电影,http://120.77.28.4:8648/yy.php?id=1354930961
-港片赌片,http://120.77.28.4:8648/yy.php?id=1355076627
-开心麻花小品,http://120.77.28.4:8648/yy.php?id=1354926643
-邵氏影院,http://120.77.28.4:8648/douyu.php?id=4246519
-华语经典,http://120.77.28.4:8648/douyu.php?id=434971
-漫威影片,http://120.77.28.4:8648/douyu.php?id=6140589
-华语电影,http://120.77.28.4:8648/douyu.php?id=3928
-恐怖经典,http://120.77.28.4:8648/douyu.php?id=1165374
-恐怖电影,http://120.77.28.4:8648/douyu.php?id=310926
-喜剧电影,http://120.77.28.4:8648/douyu.php?id=9292492
-译制影片,http://120.77.28.4:8648/douyu.php?id=2436390
-豆瓣高分,http://120.77.28.4:8648/douyu.php?id=8770422
-女神金电影,http://120.77.28.4:8648/douyu.php?id=747764
-贝爷影厅1,http://120.77.28.4:8648/douyu.php?id=252802
-贝爷影厅2,http://120.77.28.4:8648/douyu.php?id=36337
-霍格影片,http://120.77.28.4:8648/douyu.php?id=8814650
-可乐电影,http://120.77.28.4:8648/douyu.php?id=20415
-冰冰经典电影,http://120.77.28.4:8648/douyu.php?id=74374
-奶虫恐怖电影,http://120.77.28.4:8648/douyu.php?id=263824
-变种人电影,http://120.77.28.4:8648/douyu.php?id=9651304
-小U电影,http://120.77.28.4:8648/douyu.php?id=96577
-小宇60帧,http://120.77.28.4:8648/douyu.php?id=323876
-1905国外电影,http://103.67.53.72:82/小凯qq交流群875082630/1905.php?id=1905b
-1905国内电影,http://103.67.53.72:82/小凯qq交流群875082630/1905.php?id=1905a
-超级电影ipv6,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225717/index.m3u8#http://[2409:8087:1a0b:df::4006]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225717/index.m3u8
-超级电视ipv6,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225716/index.m3u8
-大吉大利影院,https://pull.kktv8.com/livekktv/128600025.flv
-恐怖电影,http://159.75.85.63:35455/douyu/218859#http://epg.112114.xyz/douyu/218859
-惊悚电影,http://159.75.85.63:35455/douyu/96577#http://epg.112114.xyz/douyu/96577
-
-咪咕影片1,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226398/index.m3u8
-咪咕影片2,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226472/index.m3u8
-咪咕影片3,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226147/index.m3u8
-咪咕影片4,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226469/index.m3u8
-咪咕影片5,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226124/index.m3u8
-
-💝 电视剧集,#genre#
-
-电视剧频道1,http://zby.xjqxz.top/dsdsj1/live.m3u8
-电视剧频道3,http://zby.xjqxz.top/gzwxj/live.m3u8
-电视剧频道4,http://zby.xjqxz.top/gzdsj1/live.m3u8
-电视剧频道5,http://zby.xjqxz.top/gzdsj3/live.m3u8
-电视剧频道6,http://zby.xjqxz.top/gzdsj5/live.m3u8
-电视剧频道7,http://zby.xjqxz.top/kzzypd/live.m3u8
-电视剧频道8,http://zby.xjqxz.top/dzzypd3/live.m3u8
-
+历年春晚,#genre#
+春晚83,http://txmov2.a.kwimgs.com/bs3/video-hls/5207287136834522947_hlshd15.m3u8
+春晚86,https://txmov2.a.kwimgs.com/bs3/video-hls/5231493982164619599_hlshd15.m3u8
+春晚87,https://txmov2.a.kwimgs.com/bs3/video-hls/5195746663405928031_hlsb.m3u8
+春晚88,https://txmov2.a.kwimgs.com/bs3/video-hls/5216575810935394655_hlsb.m3u8
+春晚89,https://txmov2.a.kwimgs.com/bs3/video-hls/5194620763762726260_hlsb.m3u8
+春晚91,https://txmov2.a.kwimgs.com/bs3/video-hls/5210664837540712798_hlshd15.m3u8
+春晚92,https://txmov2.a.kwimgs.com/bs3/video-hls/5256826755663896297_hlshd15.m3u8
+春晚93,https://txmov2.a.kwimgs.com/bs3/video-hls/5217420261875933947_hlshd15.m3u8
+春晚94,https://txmov2.a.kwimgs.com/bs3/video-hls/5197154061406974711_hlshd15.m3u8
+春晚95,https://txmov2.a.kwimgs.com/bs3/video-hls/5255137907893179578_hlshd15.m3u8
+春晚96,https://txmov2.a.kwimgs.com/bs3/video-hls/5202783562064785590_hlshd15.m3u8
+春晚97,https://txmov2.a.kwimgs.com/bs3/video-hls/5230649583590411879_hlshd15.m3u8
+春晚98,https://txmov2.a.kwimgs.com/bs3/video-hls/5225864507896315430_hlshd15.m3u8
+春晚99,https://txmov2.a.kwimgs.com/bs3/video-hls/5258234133675308186_hlshd15.m3u8
+春晚00,https://txmov2.a.kwimgs.com/bs3/video-hls/5216294359327079321_hlshd15.m3u8
+春晚01,https://txmov2.a.kwimgs.com/bs3/video-hls/5228960735897942616_hlshd15.m3u8
+春晚02,https://txmov2.a.kwimgs.com/bs3/video-hls/5255700858599864364_hlshd15.m3u8
+春晚04,https://txmov2.a.kwimgs.com/bs3/video-hls/5223894184413450769_hlshd15.m3u8
+春晚05,https://txmov2.a.kwimgs.com/bs3/video-hls/5254012008863954469_hlshd15.m3u8
+春晚07,https://txmov2.a.kwimgs.com/bs3/video-hls/5194902262344826321_hlshd15.m3u8
+春晚08,https://txmov2.a.kwimgs.com/bs3/video-hls/5210946337266019890_hlshd15.m3u8
+春晚09,https://txmov2.a.kwimgs.com/bs3/video-hls/5214042558858339330_hlshd15.m3u8
+春晚10,https://txmov2.a.kwimgs.com/bs3/video-hls/5210664862006975841_hlshd15.m3u8
+春晚11,https://txmov2.a.kwimgs.com/bs3/video-hls/5243597434070590481_hlshd15.m3u8
+春晚12,https://txmov2.a.kwimgs.com/bs3/video-hls/5219953534755647343_hlshd15.m3u8
+春晚13,https://txmov2.a.kwimgs.com/bs3/video-hls/5241627109089548390_hlshd15.m3u8
+春晚15,https://txmov2.a.kwimgs.com/bs3/video-hls/5248101009010430183_hlshd15.m3u8
+春晚16,https://txmov2.a.kwimgs.com/bs3/video-hls/5238530884094441260_hlshd15.m3u8
+春晚17,https://txmov2.a.kwimgs.com/bs3/video-hls/5191524564569524830_hlshd15.m3u8
+春晚18,https://txmov2.a.kwimgs.com/bs3/video-hls/5212635188105848764_hlshd15.m3u8
+春晚19,https://txmov2.a.kwimgs.com/bs3/video-hls/5239093835831655107_hlshd15.m3u8
+春晚20,https://txmov2.a.kwimgs.com/bs3/video-hls/5222205336887088723_hlshd15.m3u8
+春晚21,https://txmov2.a.kwimgs.com/bs3/video-hls/5255700831151909807_hlshd15.m3u8
+春晚22,https://txmov2.a.kwimgs.com/bs3/video-hls/5224457109297710655_hlshd15.m3u8
+春晚23网络,https://vod12.xmyysw.com/20230115/0WtBoE23/index.m3u8
