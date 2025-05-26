@@ -253,76 +253,6 @@
             "ext": "https://v.aikanbot.com"
         },
         {
-            "key": "csp_Bili",
-            "name": "🐞哔哩综合",
-            "type": 3,
-            "api": "csp_Bili",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://ghfast.top/https://raw.githubusercontent.com/88168/IPTV/refs/heads/main/xyq/json/Bili.json"
-        },
-        {
-            "key": "csp_Bili幼儿",
-            "name": "🐞哔哩幼儿",
-            "type": 3,
-            "api": "csp_Bili",
-            "searchable": 0,
-            "quickSearch": 0,
-            "filterable": 1,
-            "ext": "https://ghfast.top/https://raw.githubusercontent.com/88168/IPTV/refs/heads/main/xyq/json/幼儿乐园.json"
-        },
-        {
-            "key": "csp_Bili少儿",
-            "name": "🐞哔哩少儿",
-            "type": 3,
-            "api": "csp_Bili",
-            "searchable": 0,
-            "quickSearch": 0,
-            "filterable": 1,
-            "ext": "https://ghfast.top/https://raw.githubusercontent.com/88168/IPTV/refs/heads/main/xyq/json/少儿教育.json"
-        },
-        {
-            "key": "csp_Bili小学",
-            "name": "🐞哔哩小学",
-            "type": 3,
-            "api": "csp_Bili",
-            "searchable": 0,
-            "quickSearch": 0,
-            "filterable": 1,
-            "ext": "https://ghfast.top/https://raw.githubusercontent.com/88168/IPTV/refs/heads/main/xyq/json/小学课堂.json"
-        },
-        {
-            "key": "csp_Bili初中",
-            "name": "🐞哔哩初中",
-            "type": 3,
-            "api": "csp_Bili",
-            "searchable": 0,
-            "quickSearch": 0,
-            "filterable": 1,
-            "ext": "https://ghfast.top/https://raw.githubusercontent.com/88168/IPTV/refs/heads/main/xyq/json/初中课堂.json"
-        },
-        {
-            "key": "csp_Bili高中",
-            "name": "🐞哔哩高中",
-            "type": 3,
-            "api": "csp_Bili",
-            "searchable": 0,
-            "quickSearch": 0,
-            "filterable": 1,
-            "ext": "https://ghfast.top/https://raw.githubusercontent.com/88168/IPTV/refs/heads/main/xyq/json/高中课堂.json"
-        },
-        {
-            "key": "JS哔哩直播",
-            "name": "哔哩直播[js]",
-            "type": 3,
-            "api": "./api/drpy2.min.js",
-            "searchable": 0,
-            "quickSearch": 0,
-            "filterable": 1,
-            "ext": "https://ghfast.top/https://raw.githubusercontent.com/88168/IPTV/refs/heads/main/xyq/js/哔哩直播.js"
-        },
-        {
             "key": "csp_XYQHiker_戏曲多多",
             "name": "🎻戏曲多多",
             "type": 3,
@@ -333,16 +263,6 @@
             "ext": "https://ghfast.top/https://raw.githubusercontent.com/88168/IPTV/refs/heads/main/xyq/json/戏曲多多.json"
         },
         {
-            "key": "csp_XYQHiker_酷奇MV",
-            "name": "🎤酷奇MV(XYQH)",
-            "type": 3,
-            "api": "csp_XYQHiker",
-            "searchable": 0,
-            "quickSearch": 0,
-            "filterable": 1,
-            "ext": "https://ghfast.top/https://raw.githubusercontent.com/88168/IPTV/refs/heads/main/xyq/json/酷奇MV.json"
-        },
-        {
             "key": "csp_XYQHiker_短剧屋",
             "name": "🎬短剧屋",
             "type": 3,
@@ -351,86 +271,6 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "https://ghfast.top/https://raw.githubusercontent.com/88168/IPTV/refs/heads/main/xyq/json/短剧屋.json"
-        },
-        {
-            "key": "csp_XYQHiker_兔小贝",
-            "name": "🐰兔小贝(XYQH)",
-            "type": 3,
-            "api": "csp_XYQHiker",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://ghfast.top/https://raw.githubusercontent.com/88168/IPTV/refs/heads/main/xyq/json/兔小贝.json"
-        },
-        {
-            "key": "csp_XYQHiker_兔小贝2",
-            "name": "🐰兔小贝2(XYQH)",
-            "type": 3,
-            "api": "csp_XYQHiker",
-            "searchable": 0,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://ghfast.top/https://raw.githubusercontent.com/88168/IPTV/refs/heads/main/xyq/json/兔小贝2.json"
-        },
-        {
-            "key": "csp_XYQHiker_播视童趣",
-            "name": "👶🏻播视童趣(XYQH)",
-            "type": 3,
-            "api": "csp_XYQHiker",
-            "searchable": 0,
-            "quickSearch": 0,
-            "filterable": 1,
-            "ext": "https://ghfast.top/https://raw.githubusercontent.com/88168/IPTV/refs/heads/main/xyq/json/播视童趣.json"
-        },
-        {
-            "key": "csp_XYQHiker_风车动漫",
-            "name": "🌪风车动漫(XYQH)",
-            "type": 3,
-            "api": "csp_XYQHiker",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://ghfast.top/https://raw.githubusercontent.com/88168/IPTV/refs/heads/main/xyq/json/风车动漫.json"
-        },
-        {
-            "key": "csp_XYQHiker_樱花动漫",
-            "name": "🌸樱花动漫(XYQH)",
-            "type": 3,
-            "api": "csp_XYQHiker",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://ghfast.top/https://raw.githubusercontent.com/88168/IPTV/refs/heads/main/xyq/json/樱花动漫.json"
-        },
-        {
-            "key": "csp_XYQHiker_去看吧动漫",
-            "name": "🔭去看吧动漫(XYQH)",
-            "type": 3,
-            "api": "csp_XYQHiker",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://ghfast.top/https://raw.githubusercontent.com/88168/IPTV/refs/heads/main/xyq/json/去看吧动漫.json"
-        },
-        {
-            "key": "csp_XYQHiker_嗷呜动漫",
-            "name": "🙀嗷呜动漫(XYQH)",
-            "type": 3,
-            "api": "csp_XYQHiker",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://ghfast.top/https://raw.githubusercontent.com/88168/IPTV/refs/heads/main/xyq/json/嗷呜动漫.json"
-        },
-        {
-            "key": "csp_XYQHiker_动漫巴士",
-            "name": "🚌动漫巴士(XYQH)",
-            "type": 3,
-            "api": "csp_XYQHiker",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://ghfast.top/https://raw.githubusercontent.com/88168/IPTV/refs/heads/main/xyq/json/动漫巴士.json"
         },
         {
             "key": "csp_XYQHiker_农民影视",
