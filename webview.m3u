@@ -1,30 +1,30 @@
 #EXTM3U x-tvg-url="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/e.xml"
 
-#EXTINF:-1,tvg-id="莆田1套" tvg-name="莆田1套" tvg-logo="https://epg.v1.mk/logo/莆田1套.png" group-title="福建",莆田1套
+#EXTINF:-1,tvg-id="莆田1套" tvg-name="莆田1套" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/莆田1套.png" group-title="福建",莆田1套
 webview://https://www.ptbtv.com/live/pt1t/
-#EXTINF:-1,tvg-id="莆田2套" tvg-name="莆田2套" tvg-logo="https://epg.v1.mk/logo/莆田2套.png" group-title="福建",,莆田2套
+#EXTINF:-1,tvg-id="莆田2套" tvg-name="莆田2套" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/莆田2套.png" group-title="福建",,莆田2套
 webview://https://www.ptbtv.com/live/pt2t/
-#EXTINF:-1,tvg-id="仙游电视台" tvg-name="仙游电视台" tvg-logo="https://epg.v1.mk/logo/仙游电视台.png" group-title="福建",,仙游电视台
+#EXTINF:-1,tvg-id="仙游电视台" tvg-name="仙游电视台" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/仙游电视台.png" group-title="福建",,仙游电视台
 https://www.ptbtv.com/live/xyds/
-#EXTINF:-1,tvg-id="东南卫视" tvg-name="东南卫视" tvg-logo="https://epg.v1.mk/logo/东南卫视.png" group-title="福建",东南卫视
+#EXTINF:-1,tvg-id="东南卫视" tvg-name="东南卫视" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/东南卫视.png" group-title="福建",东南卫视
 webview://https://live.fjtv.net/setv/
-#EXTINF:-1,tvg-id="海峡卫视" tvg-name="海峡卫视" tvg-logo="https://epg.v1.mk/logo/海峡卫视.png" group-title="福建",,海峡卫视
+#EXTINF:-1,tvg-id="海峡卫视" tvg-name="海峡卫视" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/海峡卫视.png" group-title="福建",,海峡卫视
 webview://https://live.fjtv.net/hxtv/
-#EXTINF:-1,tvg-id="福建综合" tvg-name="福建综合" tvg-logo="https://epg.v1.mk/logo/福建综合.png" group-title="福建",,福建综合
+#EXTINF:-1,tvg-id="福建综合" tvg-name="福建综合" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/福建综合.png" group-title="福建",,福建综合
 webview://	https://live.fjtv.net/zhpd/
-#EXTINF:-1,tvg-id="福建新闻" tvg-name="福建新闻" tvg-logo="https://epg.v1.mk/logo/福建新闻.png" group-title="福建",福建新闻
+#EXTINF:-1,tvg-id="福建新闻" tvg-name="福建新闻" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/福建新闻.png" group-title="福建",福建新闻
 webview://https://live.fjtv.net/xwpd/
-#EXTINF:-1,tvg-id="福建电视剧" tvg-name="福建电视剧" tvg-logo="https://epg.v1.mk/logo/福建电视剧.png" group-title="福建",福建电视剧
+#EXTINF:-1,tvg-id="福建电视剧" tvg-name="福建电视剧" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/福建电视剧.png" group-title="福建",福建电视剧
 webview://https://live.fjtv.net/dsjpd/
-#EXTINF:-1,tvg-id="福建旅游" tvg-name="福建旅游" tvg-logo="https://epg.v1.mk/logo/福建旅游.png" group-title="福建",福建旅游
+#EXTINF:-1,tvg-id="福建旅游" tvg-name="福建旅游" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/福建旅游.png" group-title="福建",福建旅游
 webview://https://live.fjtv.net/dspd/
-#EXTINF:-1,tvg-id="福建经济" tvg-name="福建经济" tvg-logo="https://epg.v1.mk/logo/福建经济.png" group-title="福建",福建经济
+#EXTINF:-1,tvg-id="福建经济" tvg-name="福建经济" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/福建经济.png" group-title="福建",福建经济
 webview://https://live.fjtv.net/jspd/
-#EXTINF:-1,tvg-id="福建文体" tvg-name="福建文体" tvg-logo="https://epg.v1.mk/logo/福建文体.png" group-title="福建",福建文体
+#EXTINF:-1,tvg-id="福建文体" tvg-name="福建文体" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/福建文体.png" group-title="福建",福建文体
 webview://https://live.fjtv.net/typd/
-#EXTINF:-1,tvg-id="福建少儿" tvg-name="福建少儿" tvg-logo="https://epg.v1.mk/logo/福建少儿.png" group-title="福建",福建少儿
+#EXTINF:-1,tvg-id="福建少儿" tvg-name="福建少儿" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/福建少儿.png" group-title="福建",福建少儿
 webview://https://live.fjtv.net/sepd/
-#EXTINF:-1,tvg-id="福建乡村振兴公共" tvg-name="福建乡村振兴公共" tvg-logo="https://epg.v1.mk/logo/福建乡村振兴公共.png" group-title="福建",福建乡村振兴公共
+#EXTINF:-1,tvg-id="福建乡村振兴公共" tvg-name="福建乡村振兴公共" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/福建乡村振兴公共.png" group-title="福建",福建乡村振兴公共
 webview://https://live.fjtv.net/ggpd/
 
 
