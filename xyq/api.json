@@ -1,22 +1,31 @@
 //资源全部免费，仅供测试交流，请勿内置传播与转卖；关注微信公众号：奇奇乐分享，发送“本地包”获取教程与更多资源！
 
 {
-    "wallpaper": "https://wp.upx8.com/api.php",
+    "wallpaper": "https://picsum.photos/1280/720/?blur=2",
     "spider": "https://ghfast.top/https://raw.githubusercontent.com/88168/IPTV/refs/heads/main/xyq/spider.jar",
+    "logo": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1723776411507/logo.gif",
+    
     "lives": [
 
+        {
+            "name": "live",
+            "type": 0,
+            "url": "https://ghfast.top/https://raw.githubusercontent.com/88168/IPTV/refs/heads/main/xyq/lives/live.txt",
+            "epg": "https://epg.v1.mk/json?ch={name}&date={date}"
+        },
+                {
+            "name": "webview.m3u",
+            "type": 0,
+            "url": "https://ghfast.top/https://raw.githubusercontent.com/88168/IPTV/refs/heads/main/xyq/lives/webview.m3u",
+            "epg": "https://epg.v1.mk/json?ch={name}&date={date}"
+        },
         {
             "name": "BMCH",
             "type": 0,
             "url": "https://ghfast.top/https://raw.githubusercontent.com/88168/IPTV/refs/heads/main/xyq/lives/BMCH.txt",
             "epg": "https://epg.v1.mk/json?ch={name}&date={date}"
-        },
-        {
-            "name": "webview.m3u",
-            "type": 0,
-            "url": "https://ghfast.top/https://raw.githubusercontent.com/88168/IPTV/refs/heads/main/xyq/lives/webview.m3u",
-            "epg": "https://epg.v1.mk/json?ch={name}&date={date}"
         }
+
     ],
     "sites": [
         {
