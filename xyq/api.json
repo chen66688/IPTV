@@ -203,15 +203,6 @@
             "ext": "https://www.xb6v.com"
         },
         {
-            "key": "csp_DyGod",
-            "name": "🧲电影天堂",
-            "type": 3,
-            "api": "csp_DyGod",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
             "key": "csp_QnMp4",
             "name": "🧲七妹",
             "type": 3,
@@ -229,16 +220,6 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "https://www.seedhub.cc"
-        },
-        {
-            "key": "csp_MeijuTT",
-            "name": "🧲美剧天堂",
-            "type": 3,
-            "api": "csp_MeijuTT",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://www.meijutt.net"
         },
         {
             "key": "csp_BLSGod",
@@ -313,16 +294,6 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
-        },
-        {
-            "key": "csp_Ikanbot",
-            "name": "👾Ikanbot",
-            "type": 3,
-            "api": "csp_Ikanbot",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://v.aikanbot.com"
         },
         {
             "key": "csp_XYQHiker_戏曲多多",
