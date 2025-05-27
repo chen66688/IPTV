@@ -17,12 +17,6 @@
             "type": 0,
             "url": "https://ghfast.top/https://raw.githubusercontent.com/88168/IPTV/refs/heads/main/xyq/lives/webview.m3u",
             "epg": "https://epg.v1.mk/json?ch={name}&date={date}"
-        },
-        {
-            "name": "BMCH",
-            "type": 0,
-            "url": "https://ghfast.top/https://raw.githubusercontent.com/88168/IPTV/refs/heads/main/xyq/lives/BMCH.txt",
-            "epg": "https://epg.v1.mk/json?ch={name}&date={date}"
         }
     ],
     "sites": [
