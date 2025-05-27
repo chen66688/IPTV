@@ -357,46 +357,6 @@
             "ext": "https://ghfast.top/https://raw.githubusercontent.com/88168/IPTV/refs/heads/main/xyq/json/电影盒子.json"
         },
         {
-            "key": "csp_XYQHiker_星辰影院",
-            "name": "⭐️星辰影院(XYQH)",
-            "type": 3,
-            "api": "csp_XYQHiker",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://ghfast.top/https://raw.githubusercontent.com/88168/IPTV/refs/heads/main/xyq/json/星辰影院.json"
-        },
-        {
-            "key": "csp_XYQHiker_可可影视",
-            "name": "☕️可可影视(XYQH)",
-            "type": 3,
-            "api": "csp_XYQHiker",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://ghfast.top/https://raw.githubusercontent.com/88168/IPTV/refs/heads/main/xyq/json/可可影视.json"
-        },
-        {
-            "key": "csp_XYQHiker_爱看影视",
-            "name": "👀爱看影视(XYQH)",
-            "type": 3,
-            "api": "csp_XYQHiker",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://ghfast.top/https://raw.githubusercontent.com/88168/IPTV/refs/heads/main/xyq/json/爱看影视.json"
-        },
-        {
-            "key": "csp_XYQHiker_看一看影视",
-            "name": "🔍看一看影视(XYQH)",
-            "type": 3,
-            "api": "csp_XYQHiker",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://ghfast.top/https://raw.githubusercontent.com/88168/IPTV/refs/heads/main/xyq/json/看一看影视.json"
-        },
-        {
             "key": "csp_XYQHiker_瓜子影院",
             "name": "瓜子影院(XYQH)",
             "type": 3,
