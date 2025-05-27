@@ -368,7 +368,6 @@ http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
 #EXTINF:-1 tvg-id="香港卫视" tvg-name="香港卫视" tvg-logo="http://175.178.182.213/logo/香港卫视.png" group-title="💝 港 台 轮 播",香港卫视
 http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8#http://zhibo.hkstv.tv:80/livestream/mutfysrq.flv
 
-#EXTM3U x-tvg-url="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/e.xml"
 #EXTINF:-1 tvg-id="鳳凰衛視中文台" tvg-name="鳳凰衛視中文台" tvg-logo="http://175.178.182.213/logo/鳳凰衛視中文台.png" group-title="💝 TVB频道",鳳凰衛視中文台
 http://jxiptv.dpdns.org/stream/4gtv/null-3/master.m3u8?u=test&p=9f86d081884c7d659a2feaa0c55ad015a3bf4f1b2b0b822cd15d6c15b0f00a08
 #EXTINF:-1 tvg-id="鳳凰衛視資訊台" tvg-name="鳳凰衛視資訊台" tvg-logo="http://175.178.182.213/logo/鳳凰衛視資訊台.png" group-title="💝 TVB频道",鳳凰衛視資訊台
