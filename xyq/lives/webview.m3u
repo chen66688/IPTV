@@ -368,6 +368,40 @@ http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
 #EXTINF:-1 tvg-id="香港卫视" tvg-name="香港卫视" tvg-logo="http://175.178.182.213/logo/香港卫视.png" group-title="💝 港 台 轮 播",香港卫视
 http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8#http://zhibo.hkstv.tv:80/livestream/mutfysrq.flv
 
+#EXTM3U x-tvg-url="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/e.xml"
+#EXTINF:-1 tvg-id="鳳凰衛視中文台" tvg-name="鳳凰衛視中文台" tvg-logo="http://175.178.182.213/logo/鳳凰衛視中文台.png" group-title="",鳳凰衛視中文台
+http://jxiptv.dpdns.org/stream/4gtv/null-3/master.m3u8?u=test&p=9f86d081884c7d659a2feaa0c55ad015a3bf4f1b2b0b822cd15d6c15b0f00a08
+#EXTINF:-1 tvg-id="鳳凰衛視資訊台" tvg-name="鳳凰衛視資訊台" tvg-logo="http://175.178.182.213/logo/鳳凰衛視資訊台.png" group-title="",鳳凰衛視資訊台
+http://jxiptv.dpdns.org/stream/4gtv/null-4/master.m3u8?u=test&p=9f86d081884c7d659a2feaa0c55ad015a3bf4f1b2b0b822cd15d6c15b0f00a08
+#EXTINF:-1 tvg-id="鳳凰衛視香港台" tvg-name="鳳凰衛視香港台" tvg-logo="http://175.178.182.213/logo/鳳凰衛視香港台.png" group-title="",鳳凰衛視香港台
+http://jxiptv.dpdns.org/stream/4gtv/null-5/master.m3u8?u=test&p=9f86d081884c7d659a2feaa0c55ad015a3bf4f1b2b0b822cd15d6c15b0f00a08
+#EXTINF:-1 tvg-id="翡翠台 4K" tvg-name="翡翠台 4K" tvg-logo="http://175.178.182.213/logo/翡翠台 4K.png" group-title="",翡翠台 4K
+http://jxiptv.dpdns.org/stream/4gtv/4k/master.m3u8?u=test&p=9f86d081884c7d659a2feaa0c55ad015a3bf4f1b2b0b822cd15d6c15b0f00a08
+#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="http://175.178.182.213/logo/翡翠台.png" group-title="",翡翠台
+http://jxiptv.dpdns.org/stream/4gtv/null/master.m3u8?u=test&p=9f86d081884c7d659a2feaa0c55ad015a3bf4f1b2b0b822cd15d6c15b0f00a08
+#EXTINF:-1 tvg-id="明珠台" tvg-name="明珠台" tvg-logo="http://175.178.182.213/logo/明珠台.png" group-title="",明珠台
+http://jxiptv.dpdns.org/stream/4gtv/null-1/master.m3u8?u=test&p=9f86d081884c7d659a2feaa0c55ad015a3bf4f1b2b0b822cd15d6c15b0f00a08
+#EXTINF:-1 tvg-id="無線新聞台" tvg-name="無線新聞台" tvg-logo="http://175.178.182.213/logo/無線新聞台.png" group-title="",無線新聞台
+http://jxiptv.dpdns.org/stream/4gtv/null-2/master.m3u8?u=test&p=9f86d081884c7d659a2feaa0c55ad015a3bf4f1b2b0b822cd15d6c15b0f00a08
+#EXTINF:-1 tvg-id="娛樂新聞台" tvg-name="娛樂新聞台" tvg-logo="http://175.178.182.213/logo/娛樂新聞台.png" group-title="",娛樂新聞台
+http://jxiptv.dpdns.org/stream/4gtv/null-6/master.m3u8?u=test&p=9f86d081884c7d659a2feaa0c55ad015a3bf4f1b2b0b822cd15d6c15b0f00a08
+#EXTINF:-1 tvg-id="黃金翡翠台" tvg-name="黃金翡翠台" tvg-logo="http://175.178.182.213/logo/黃金翡翠台.png" group-title="",黃金翡翠台
+http://jxiptv.dpdns.org/stream/4gtv/null-7/master.m3u8?u=test&p=9f86d081884c7d659a2feaa0c55ad015a3bf4f1b2b0b822cd15d6c15b0f00a08
+#EXTINF:-1 tvg-id="美亞電影台" tvg-name="美亞電影台" tvg-logo="http://175.178.182.213/logo/美亞電影台.png" group-title="",美亞電影台
+http://jxiptv.dpdns.org/stream/4gtv/null-10/master.m3u8?u=test&p=9f86d081884c7d659a2feaa0c55ad015a3bf4f1b2b0b822cd15d6c15b0f00a08
+#EXTINF:-1 tvg-id="PopC" tvg-name="PopC" tvg-logo="http://175.178.182.213/logo/PopC.png" group-title="",PopC
+http://jxiptv.dpdns.org/stream/4gtv/popc/master.m3u8?u=test&p=9f86d081884c7d659a2feaa0c55ad015a3bf4f1b2b0b822cd15d6c15b0f00a08
+#EXTINF:-1 tvg-id="TVB Plus" tvg-name="TVB Plus" tvg-logo="http://175.178.182.213/logo/TVB Plus.png" group-title="",TVB Plus
+http://jxiptv.dpdns.org/stream/4gtv/tvbplus/master.m3u8?u=test&p=9f86d081884c7d659a2feaa0c55ad015a3bf4f1b2b0b822cd15d6c15b0f00a08
+#EXTINF:-1 tvg-id="myTV SUPER FREE" tvg-name="myTV SUPER FREE" tvg-logo="http://175.178.182.213/logo/myTV SUPER FREE.png" group-title="",myTV SUPER FREE
+http://jxiptv.dpdns.org/stream/4gtv/mytvsuperfree/master.m3u8?u=test&p=9f86d081884c7d659a2feaa0c55ad015a3bf4f1b2b0b822cd15d6c15b0f00a08
+#EXTINF:-1 tvg-id="SUPER Kids Channel" tvg-name="SUPER Kids Channel" tvg-logo="http://175.178.182.213/logo/SUPER Kids Channel.png" group-title="",SUPER Kids Channel
+http://jxiptv.dpdns.org/stream/4gtv/superkidschannel/master.m3u8?u=test&p=9f86d081884c7d659a2feaa0c55ad015a3bf4f1b2b0b822cd15d6c15b0f00a08
+#EXTINF:-1 tvg-id="創世電視" tvg-name="創世電視" tvg-logo="http://175.178.182.213/logo/創世電視.png" group-title="",創世電視
+http://jxiptv.dpdns.org/stream/4gtv/null-8/master.m3u8?u=test&p=9f86d081884c7d659a2feaa0c55ad015a3bf4f1b2b0b822cd15d6c15b0f00a08
+#EXTINF:-1 tvg-id="中央電視台綜合頻道 (港澳版)" tvg-name="中央電視台綜合頻道 (港澳版)" tvg-logo="http://175.178.182.213/logo/中央電視台綜合頻道 (港澳版).png" group-title="",中央電視台綜合頻道 (港澳版)
+http://jxiptv.dpdns.org/stream/4gtv/null-9/master.m3u8?u=test&p=9f86d081884c7d659a2feaa0c55ad015a3bf4f1b2b0b822cd15d6c15b0f00a08
+
 #EXTINF:-1 tvg-id="电影_星爷" tvg-name="电影_星爷" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv//电影_星爷.png" group-title="💝电影轮播",电影_星爷
 http://cfss.cc/cdn/hy/11342412.flv
 #EXTINF:-1 tvg-id="电影_英叔" tvg-name="电影_英叔" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv//电影_英叔.png" group-title="💝电影轮播",电影_英叔
