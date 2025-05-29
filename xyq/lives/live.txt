@@ -151,33 +151,20 @@ CCTV13-HD,http://39.135.55.105:6610/PLTV/88888888/224/3221225817/index.m3u8?serv
 
 💝 电影系列.虎牙「影视」,#genre#
 
-#EXTINF:-1 tvg-logo="https://tv.iill.top/LOGO/11601981&huya&logo" group-title="•虎牙「影视」",成立
-https://live.iill.top/huya/11601981
-#EXTINF:-1 tvg-logo="https://tv.iill.top/LOGO/11601986&huya&logo" group-title="•虎牙「影视」",贺岁
-https://live.iill.top/huya/11601986
-#EXTINF:-1 tvg-logo="https://tv.iill.top/LOGO/11352877&huya&logo" group-title="•虎牙「影视」",王宝强
-https://live.iill.top/huya/11352877
-#EXTINF:-1 tvg-logo="https://tv.iill.top/LOGO/11342429&huya&logo" group-title="•虎牙「影视」",梁家辉
-https://live.iill.top/huya/11342429
-#EXTINF:-1 tvg-logo="https://tv.iill.top/LOGO/21136378&huya&logo" group-title="•虎牙「影视」",周星驰
-https://live.iill.top/huya/21136378
-#EXTINF:-1 tvg-logo="https://tv.iill.top/LOGO/11342424&huya&logo" group-title="•虎牙「影视」",刘德华
-https://live.iill.top/huya/11342424
-#EXTINF:-1 tvg-logo="https://tv.iill.top/LOGO/11352876&huya&logo" group-title="•虎牙「影视」",电影_黄渤
-https://live.iill.top/huya/11352876
-#EXTINF:-1 tvg-logo="https://tv.iill.top/LOGO/11601968&huya&logo" group-title="•虎牙「影视」",电影_沈腾
-https://live.iill.top/huya/11601968
-#EXTINF:-1 tvg-logo="https://tv.iill.top/LOGO/21059581&huya&logo" group-title="•虎牙「影视」",电影_强森
-https://live.iill.top/huya/21059581
-#EXTINF:-1 tvg-logo="https://tv.iill.top/LOGO/11342387&huya&logo" group-title="•虎牙「影视」",电影_发哥
-https://live.iill.top/huya/11342387
-#EXTINF:-1 tvg-logo="https://tv.iill.top/LOGO/11352886&huya&logo" group-title="•虎牙「影视」",电影_警匪
-https://live.iill.top/huya/11352886
-#EXTINF:-1 tvg-logo="https://tv.iill.top/LOGO/11602041&huya&logo" group-title="•虎牙「影视」",电影_推荐
-https://live.iill.top/huya/11602041
-https://live.iill.top/huya/11602081
-#EXTINF:-1 tvg-logo="https://tv.iill.top/LOGO/21059579&huya&logo" group-title="•虎牙「影视」",电影_枪战
-https://live.iill.top/huya/21059579
+「虎牙影视」成立,https://live.iill.top/huya/11601981
+「虎牙影视」」贺岁,https://live.iill.top/huya/11601986
+「虎牙影视」王宝强,https://live.iill.top/huya/11352877
+「虎牙影视」梁家辉,https://live.iill.top/huya/11342429
+「虎牙影视」周星驰,https://live.iill.top/huya/21136378
+「虎牙影视」刘德华,https://live.iill.top/huya/11342424
+「虎牙影视」黄渤,https://live.iill.top/huya/11352876
+「虎牙影视」沈腾,https://live.iill.top/huya/11601968
+「虎牙影视」强森,https://live.iill.top/huya/21059581
+「虎牙影视」发哥,https://live.iill.top/huya/11342387
+「虎牙影视」警匪,https://live.iill.top/huya/11352886
+「虎牙影视」电影_推荐,https://live.iill.top/huya/11602041
+「虎牙影视」电影_推荐1,https://live.iill.top/huya/11602081
+「虎牙影视」枪战,https://live.iill.top/huya/21059579
 
 💝 历年春晚,#genre#
 
