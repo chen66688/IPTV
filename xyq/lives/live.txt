@@ -77,11 +77,11 @@ CCTV13-HD,http://39.135.55.105:6610/PLTV/88888888/224/3221225817/index.m3u8?serv
 
 💝 港 台 轮 播 ,#genre#
 
-💝凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx#http://cdn3.163189.xyz/live/fhzx/stream.m3u8#http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzx
-💝凤凰中文测试,http://ttkx.cc:1380/公5558/fh.php?id=fhzw#http://php.jdshipin.com/TVOD/iptv.php?id=fhzw#http://43.129.81.169/qctv.fengshows.cn/live/0701pcc72.flv#http://cdn.163189.xyz/live/fhzw/stream.m3u8#http://cdn5.1678520.xyz:80/live/live2.1.php?id=fhzw#,https://haoyunlai.serv00.net/Smartv-1.php?id=phoenixtv_hd#http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzw#http://php.jdshipin.com/TVOD/iptv.php?id=fhzw#http://211.75.171.121:8577/http/61.67.128.137:8078/hls/21/80/phoenixch.m3u8
-凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx2
-凤凰中文测试,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw2
-凤凰香港台测试,http://php.jdshipin.com/TVOD/iptv.php?id=fhhk2
+💝凤凰资讯,
+
+凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx2#http://php.jdshipin.com/TVOD/iptv.php?id=fhzx#http://cdn3.163189.xyz/live/fhzx/stream.m3u8#http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzx
+凤凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw2
+凤凰香港台,http://php.jdshipin.com/TVOD/iptv.php?id=fhhk2
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8#http://zhibo.hkstv.tv:80/livestream/mutfysrq.flv
 中视,rtmp://f13h.mine.nu/sat/tv091#rtmp://60.248.77.83/sat/tv091#rtmp://9hv9.mine.nu/sat/tv091
 华视,rtmp://f13h.mine.nu/sat/tv111#rtmp://60.248.77.83/sat/tv111#rtmp://9hv9.mine.nu/sat/tv111
@@ -160,6 +160,7 @@ CCTV13-HD,http://39.135.55.105:6610/PLTV/88888888/224/3221225817/index.m3u8?serv
 春晚1987,https://txmov2.a.kwimgs.com/bs3/video-hls/5195746663405928031_hlsb.m3u8#https://alimov2.a.kwimgs.com/upic/2022/01/31/16/BMjAyMjAxMzExNjAwMDhfNDAzMDAxOTlfNjYyNzMyNjMyMDNfMF8z_b_B570493ed8f7200d4013a66b2d21b2de9.mp4
 春晚1988,https://txmov2.a.kwimgs.com/bs3/video-hls/5216575810935394655_hlsb.m3u8#https://alimov2.a.kwimgs.com/upic/2022/01/31/16/BMjAyMjAxMzExNjAwMTJfNDAzMDAxOTlfNjYyNzMyNjkxNjBfMF8z_b_B8c835b83a92d25bde81ba22c5cd9521e.mp4
 春晚1989,https://txmov2.a.kwimgs.com/bs3/video-hls/5194620763762726260_hlsb.m3u8#https://alimov2.a.kwimgs.com/upic/2022/01/31/16/BMjAyMjAxMzExNjAwMTVfNDAzMDAxOTlfNjYyNzMyNzQ2OTlfMF8z_b_Be477b27b9ce655d2372df56a5a3d96ef.mp4
+春晚1990年中央电视台春节联欢晚会,https://cdn8.yzzy-online.com/20220704/597_e0d90c37/1000k/hls/index.m3u8
 春晚1991,https://txmov2.a.kwimgs.com/bs3/video-hls/5210664837540712798_hlshd15.m3u8#https://alimov2.a.kwimgs.com/upic/2022/01/31/16/BMjAyMjAxMzExNjI2MTVfNDAzMDAxOTlfNjYyNzYwNjUxNjVfMF8z_b_B8feb7b85888678d71bf37a259c6850f6.mp4
 春晚1992,https://txmov2.a.kwimgs.com/bs3/video-hls/5256826755663896297_hlshd15.m3u8#https://txmov2.a.kwimgs.com/bs3/video-hls/5256826755663896297_hlshd15.m3u8
 春晚1993,https://txmov2.a.kwimgs.com/bs3/video-hls/5217420261875933947_hlshd15.m3u8#https://alimov2.a.kwimgs.com/upic/2023/01/13/22/BMjAyMzAxMTMyMjEwMDNfNDAzMDAxOTlfOTM1MTIzMzYwODJfMF8z_b_B647d10e431b4cc5e48e6c77347d69021.mp4
@@ -194,6 +195,6 @@ CCTV13-HD,http://39.135.55.105:6610/PLTV/88888888/224/3221225817/index.m3u8?serv
 春晚2022,https://txmov2.a.kwimgs.com/bs3/video-hls/5224457109297710655_hlshd15.m3u8#https://alimov2.a.kwimgs.com/upic/2022/02/01/11/BMjAyMjAyMDExMTEwMjNfNDAzMDAxOTlfNjYzNzA4MTk4NzNfMF8z_b_B898cc7ddd0025bf54ddb18ec1f723c84.mp4
 春晚2023,https://txmov2.a.kwimgs.com/bs3/video-hls/5251197255879398624_hlshd15.m3u8#https://vod12.xmyysw.com/20230115/0WtBoE23/index.m3u8
 春晚2024,https://p2.bdstatic.com/rtmp.liveshow.lss-user.baidubce.com/live/stream_bduid_6488563992_8982723413/merged_1707497046297_88536_25144_41936.m3u8
-
+春晚2025,https://svip.high24-playback.com/20250129/17159_7bca93c4/2000k/hls/mixed.m3u8
 
 
