@@ -187,6 +187,80 @@ http://jxiptv.dpdns.org/stream/4gtv/superkidschannel/master.m3u8?u=test&p=9f86d0
 http://jxiptv.dpdns.org/stream/4gtv/null-8/master.m3u8?u=test&p=9f86d081884c7d659a2feaa0c55ad015a3bf4f1b2b0b822cd15d6c15b0f00a08
 #EXTINF:-1 tvg-id="中央電視台綜合頻道 (港澳版)" tvg-name="中央電視台綜合頻道 (港澳版)" tvg-logo="http://175.178.182.213/logo/中央電視台綜合頻道 (港澳版).png" group-title="💝 TVB频道",中央電視台綜合頻道 (港澳版)
 http://jxiptv.dpdns.org/stream/4gtv/null-9/master.m3u8?u=test&p=9f86d081884c7d659a2feaa0c55ad015a3bf4f1b2b0b822cd15d6c15b0f00a08
+
+#EXTINF:-1 group-title="影视频道",斗鱼魔幻影院
+http://www.douzhicloud.site:35455/douyu/1274132
+#EXTINF:-1 group-title="影视频道",斗鱼周末影院
+http://www.douzhicloud.site:35455/douyu/315457
+#EXTINF:-1 group-title="影视频道",斗鱼专辑影院
+http://www.douzhicloud.site:35455/douyu/3811092
+#EXTINF:-1 group-title="影视频道",嘉兴文化影视
+http://play-sh13.quklive.com/live/1675149625220101.m3u8?auth_key=2028730374-3a60eb8e324f416aa3b26dda7679d920-0-22dc7efa8452d0b0665c15eeed83609d
+#EXTINF:-1 group-title="影视频道",教科影视
+https://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
+#EXTINF:-1 group-title="影视频道",教科影视
+http://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
+#EXTINF:-1 group-title="影视频道",奶虫影院
+http://www.douzhicloud.site:35455/douyu/263824
+#EXTINF:-1 group-title="影视频道",上虞文化影院
+http://l.cztvcloud.com/channels/lantian/SXshangyu2/720p.m3u8?zzhed
+#EXTINF:-1 group-title="影视频道",上虞文化影院
+http://l.cztvcloud.com/channels/lantian/SXshangyu2/720p.m3u8
+#EXTINF:-1 group-title="影视频道",上虞文化影院
+http://l.cztvcloud.com/channels/lantian/SXshangyu2/720p.m3u8?zzhed;http://l.cztvcloud.com/channels/lantian/SXshangyu2/720p.m3u8zzhed
+#EXTINF:-1 group-title="影视频道",神乐华语影院
+http://tc-tct.douyucdn2.cn/dyliveflv1a/85894rmovieChow_4000.xs?wsAuth=ba1c90644d5727f7eff2d821807aceb6&token=web-h5-90270207-85894-853ec75fcb0c6ecaca17aa65580152fde64a0f1c44c269f0&logo=0&expire=0&did=d1bae13724faf6e93becdd6000021601&origin=hw
+#EXTINF:-1 group-title="影视频道",神乐欧美影院
+http://tc-tct.douyucdn2.cn/dyliveflv1a/20415rnWbjg6Ex1K_2000.flv?wsAuth=3b64dd17d293b133c58bda21e3147e5b&token=cpn-androidmpro-0-20415-b6774b3b3249db1768f0ac048c5ed218ac54e1f82b04b2bf&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play2
+#EXTINF:-1 group-title="影视频道",神乐影院
+http://huanqiuzhibo.cn/manifest/douyu.php?id=85894
+#EXTINF:-1 group-title="影视频道",石河子影视文体
+http://124.88.144.73:1935/live/jjsh/playlist.m3u8
+#EXTINF:-1 group-title="影视频道",泰州三套影视娱乐
+http://stream1.mytaizhou.net/ysyl/playlist.m3u8?_upt=16dfe82d1725409426
+#EXTINF:-1 group-title="影视频道",小鬼华语影院
+http://tc-tct.douyucdn2.cn/dyliveflv1a/3928r9p0BHMDG_2000.xs?wsAuth=3c48b706fe90d736d90b5622adfc09d2&token=web-h5-0-3928-15d95fcfde11a749199abfc5ac7bdee6727c6402febadfb8&logo=0&expire=0&did=24482b48b98804f2b0a5b17400041701
+#EXTINF:-1 group-title="影视频道",新昌休闲影视
+http://l.cztvcloud.com/channels/lantian/SXxinchang2/720p.m3u8
+#EXTINF:-1 group-title="影视频道",重温经典
+http://ali.hlspull.yximgs.com/live/awei_cwjd.flv
+#EXTINF:-1 group-title="影视频道",CHC动作电影
+http://goo.bkpcp.top/mg/dzdy
+#EXTINF:-1 group-title="影视频道",CHC华诚影视
+http://120.76.248.139/live/bfgd/4200000289.m3u8
+#EXTINF:-1 group-title="影视频道",CHC家庭影院
+http://180.213.174.225:9901/tsfile/live/1030_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="影视频道",CHC家庭影院
+http://180.213.174.225:9901/tsfile/live/1030_1.m3u8?key=txiptv&playlive=1&authid=0$LR•IPV4『线路6』
+#EXTINF:-1 group-title="影视频道",CHC家庭影院
+http://goo.bkpcp.top/mg/jtyy
+#EXTINF:-1 tvg-logo="https://tv.iill.top/LOGO/11601981&huya&logo" group-title="•虎牙「影视」",成立
+https://live.iill.top/huya/11601981
+#EXTINF:-1 tvg-logo="https://tv.iill.top/LOGO/11601986&huya&logo" group-title="•虎牙「影视」",贺岁
+https://live.iill.top/huya/11601986
+#EXTINF:-1 tvg-logo="https://tv.iill.top/LOGO/11352877&huya&logo" group-title="•虎牙「影视」",王宝强
+https://live.iill.top/huya/11352877
+#EXTINF:-1 tvg-logo="https://tv.iill.top/LOGO/11342429&huya&logo" group-title="•虎牙「影视」",梁家辉
+https://live.iill.top/huya/11342429
+#EXTINF:-1 tvg-logo="https://tv.iill.top/LOGO/21136378&huya&logo" group-title="•虎牙「影视」",周星驰
+https://live.iill.top/huya/21136378
+#EXTINF:-1 tvg-logo="https://tv.iill.top/LOGO/11342424&huya&logo" group-title="•虎牙「影视」",刘德华
+https://live.iill.top/huya/11342424
+#EXTINF:-1 tvg-logo="https://tv.iill.top/LOGO/11352876&huya&logo" group-title="•虎牙「影视」",电影_黄渤
+https://live.iill.top/huya/11352876
+#EXTINF:-1 tvg-logo="https://tv.iill.top/LOGO/11601968&huya&logo" group-title="•虎牙「影视」",电影_沈腾
+https://live.iill.top/huya/11601968
+#EXTINF:-1 tvg-logo="https://tv.iill.top/LOGO/21059581&huya&logo" group-title="•虎牙「影视」",电影_强森
+https://live.iill.top/huya/21059581
+#EXTINF:-1 tvg-logo="https://tv.iill.top/LOGO/11342387&huya&logo" group-title="•虎牙「影视」",电影_发哥
+https://live.iill.top/huya/11342387
+#EXTINF:-1 tvg-logo="https://tv.iill.top/LOGO/11352886&huya&logo" group-title="•虎牙「影视」",电影_警匪
+https://live.iill.top/huya/11352886
+#EXTINF:-1 tvg-logo="https://tv.iill.top/LOGO/11602041&huya&logo" group-title="•虎牙「影视」",电影_推荐
+https://live.iill.top/huya/11602041
+https://live.iill.top/huya/11602081
+#EXTINF:-1 tvg-logo="https://tv.iill.top/LOGO/21059579&huya&logo" group-title="•虎牙「影视」",电影_枪战
+https://live.iill.top/huya/21059579
 #EXTINF:-1 tvg-id="电影_星爷" tvg-name="电影_星爷" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv//电影_星爷.png" group-title="💝电影轮播",电影_星爷
 http://cfss.cc/cdn/hy/11342412.flv
 #EXTINF:-1 tvg-id="电影_英叔" tvg-name="电影_英叔" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv//电影_英叔.png" group-title="💝电影轮播",电影_英叔
