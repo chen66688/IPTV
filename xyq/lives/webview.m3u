@@ -43,6 +43,8 @@ http://39.135.55.105:6610/PLTV/88888888/224/3221225817/index.m3u8?servicetype=1
 webview://https://www.ptbtv.com/live/pt1t/
 #EXTINF:-1,tvg-id="莆田2套" tvg-name="莆田2套" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/莆田2套.png" group-title="💝 iptv福建移动频道",,莆田2套
 webview://https://www.ptbtv.com/live/pt2t/
+#EXTINF:-1,tvg-id="仙游电视" tvg-name="仙游电视" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/仙游电视.png" group-title="💝 iptv福建移动频道",,仙游电视
+https://www.ptbtv.com/live/xyds/
 #EXTINF:-1 tvg-id="福建综合" tvg-name="福建综合" tvg-logo="http://175.178.182.213/logo/福建综合.png" group-title="💝 iptv福建移动频道",福建综合
 http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227149/index.m3u8?rrsip=ott.fj.chinamobile.com&zoneoffset=0&servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&tenantId=8601&accountinfo=%2C10000127420524%2C183.251.240.57%2C20240312173248%2Cfmgott_1000010000000000000990017%2C10001026346178%2C-1%2C0%2C1%2C-1%2C%2C2%2C100001%2C%2C%2C2%2C%2CEND&GuardEncType=2&it=H4sIAAAAAAAAAE2OwQ6CMBBE_6bHhhZBOfSEMTExaCJ6Ndt2WwmFaosk_r1AOHjazOa9yQwBFB73IlVG6RQhk1u1kbncJazINUtNIVnOsy2J-K684ESBc01vK69n7X4tH4xxmiWUz4eTei48OLAiWdjq00kMa5jEK4axUSh0NHSESMHagBaGxvf04uB7C25FCNbruP7jHBnmUENspwd5Qix994KA-uTtwgkDLiJ5gWrBYgUd_nnnoKcRP0jDgxbtAAAA
 #EXTINF:-1 tvg-id="东南卫视" tvg-name="东南卫视" tvg-logo="http://175.178.182.213/logo/东南卫视.png" group-title="💝 iptv福建移动频道",东南卫视
