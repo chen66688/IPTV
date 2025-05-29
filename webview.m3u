@@ -5,7 +5,7 @@ webview://https://www.ptbtv.com/live/pt1t/
 #EXTINF:-1,tvg-id="莆田2套" tvg-name="莆田2套" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/莆田2套.png" group-title="福建",,莆田2套
 webview://https://www.ptbtv.com/live/pt2t/
 #EXTINF:-1,tvg-id="仙游电视台" tvg-name="仙游电视台" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/仙游电视台.png" group-title="福建",,仙游电视台
-https://www.ptbtv.com/live/xyds/
+webview://https://www.ptbtv.com/live/xyds/
 #EXTINF:-1,tvg-id="东南卫视" tvg-name="东南卫视" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/东南卫视.png" group-title="福建",东南卫视
 webview://https://live.fjtv.net/setv/
 #EXTINF:-1,tvg-id="海峡卫视" tvg-name="海峡卫视" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/海峡卫视.png" group-title="福建",,海峡卫视
@@ -571,18 +571,16 @@ webview://https://www.cztv.com/liveTV/111
 #EXTINF:-1 tvg-name="之江纪录" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/之江纪录.png" group-title="浙江",之江纪录
 webview://https://www.cztv.com/liveTV/112
 
-#EXTINF:-1 tvg-id="鳳凰衛視資訊台24小時直播" tvg-name="鳳凰衛視資訊台24小時直播" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv//鳳凰衛視資訊台24小時直播.png" group-title="港澳台",鳳凰衛視資訊台24小時直播
-https://www.youtube.com/watch?v=BLaQVW5oUGU
-#EXTINF:-1 tvg-id="台視新聞" tvg-name="台視新聞" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv//台視新聞.png" group-title="港澳台",台視新聞
-https://www.youtube.com/watch?v=Gr_F8XoiYN0
-#EXTINF:-1 tvg-id="戲說台灣｜24小時不間斷直播" tvg-name="戲說台灣｜24小時不間斷直播" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv//戲說台灣｜24小時不間斷直播.png" group-title="港澳台",戲說台灣｜24小時不間斷直播
-https://www.youtube.com/watch?v=yIW5BYU0f7U
-#EXTINF:-1 tvg-id="新唐人電視台" tvg-name="新唐人電視台" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv//新唐人電視台.png" group-title="港澳台",新唐人電視台
-https://www.youtube.com/watch?v=r_MpR_EnYvo
-#EXTINF:-1 tvg-id="寰宇新聞台灣台 24小時直播" tvg-name="寰宇新聞台灣台 24小時直播" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv//寰宇新聞台灣台 24小時直播.png" group-title="港澳台",寰宇新聞台灣台 24小時直播
-https://www.youtube.com/watch?v=w87VGpgd90U
-#EXTINF:-1 tvg-id="東森新聞 51 頻道 24 小時直播" tvg-name="東森新聞 51 頻道 24 小時直播" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv//東森新聞 51 頻道 24 小時直播.png" group-title="港澳台",東森新聞 51 頻道 24 小時直播
-https://www.youtube.com/watch?v=V1p33hqPrUk
+#EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="http://175.178.182.213/logo/凤凰资讯.png" group-title="💝 港 台 轮 播",凤凰资讯
+http://php.jdshipin.com/TVOD/iptv.php?id=fhzx2
+#EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="http://175.178.182.213/logo/凤凰中文.png" group-title="💝 港 台 轮 播",凤凰中文
+http://php.jdshipin.com/TVOD/iptv.php?id=fhzw2
+#EXTINF:-1 tvg-id="凤凰香港台" tvg-name="凤凰香港台" tvg-logo="http://175.178.182.213/logo/凤凰资讯.png" group-title="💝 港 台 轮 播",凤凰香港台
+http://php.jdshipin.com/TVOD/iptv.php?id=fhhk2
+#EXTINF:-1 tvg-id="香港卫视" tvg-name="香港卫视" tvg-logo="http://175.178.182.213/logo/香港卫视.png" group-title="💝 港 台 轮 播",香港卫视
+http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8#http://zhibo.hkstv.tv:80/livestream/mutfysrq.flv
+
+
 #EXTINF:-1 tvg-id="华视" tvg-name="华视" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv//华视.png" group-title="港澳台",华视
 rtmp://f13h.mine.nu/sat/tv111
 #EXTINF:-1 tvg-id="民视" tvg-name="民视" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv//民视.png" group-title="港澳台",民视
@@ -835,6 +833,34 @@ http://cfss.cc/cdn/hy/21059554.flv
 http://cfss.cc/cdn/hy/11274154.flv
 #EXTINF:-1 tvg-id="古装剧" tvg-name="古装剧" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv//古装剧.png" group-title="电影轮播",古装剧
 http://maomao.kandiantv.cn/douyu1.php?id=338759
+#EXTINF:-1 tvg-logo="https://tv.iill.top/LOGO/11601981&huya&logo" group-title="•虎牙「影视」",成立
+https://live.iill.top/huya/11601981
+#EXTINF:-1 tvg-logo="https://tv.iill.top/LOGO/11601986&huya&logo" group-title="•虎牙「影视」",贺岁
+https://live.iill.top/huya/11601986
+#EXTINF:-1 tvg-logo="https://tv.iill.top/LOGO/11352877&huya&logo" group-title="•虎牙「影视」",王宝强
+https://live.iill.top/huya/11352877
+#EXTINF:-1 tvg-logo="https://tv.iill.top/LOGO/11342429&huya&logo" group-title="•虎牙「影视」",梁家辉
+https://live.iill.top/huya/11342429
+#EXTINF:-1 tvg-logo="https://tv.iill.top/LOGO/21136378&huya&logo" group-title="•虎牙「影视」",周星驰
+https://live.iill.top/huya/21136378
+#EXTINF:-1 tvg-logo="https://tv.iill.top/LOGO/11342424&huya&logo" group-title="•虎牙「影视」",刘德华
+https://live.iill.top/huya/11342424
+#EXTINF:-1 tvg-logo="https://tv.iill.top/LOGO/11352876&huya&logo" group-title="•虎牙「影视」",电影_黄渤
+https://live.iill.top/huya/11352876
+#EXTINF:-1 tvg-logo="https://tv.iill.top/LOGO/11601968&huya&logo" group-title="•虎牙「影视」",电影_沈腾
+https://live.iill.top/huya/11601968
+#EXTINF:-1 tvg-logo="https://tv.iill.top/LOGO/21059581&huya&logo" group-title="•虎牙「影视」",电影_强森
+https://live.iill.top/huya/21059581
+#EXTINF:-1 tvg-logo="https://tv.iill.top/LOGO/11342387&huya&logo" group-title="•虎牙「影视」",电影_发哥
+https://live.iill.top/huya/11342387
+#EXTINF:-1 tvg-logo="https://tv.iill.top/LOGO/11352886&huya&logo" group-title="•虎牙「影视」",电影_警匪
+https://live.iill.top/huya/11352886
+#EXTINF:-1 tvg-logo="https://tv.iill.top/LOGO/11602041&huya&logo" group-title="•虎牙「影视」",电影_推荐
+https://live.iill.top/huya/11602041
+https://live.iill.top/huya/11602081
+#EXTINF:-1 tvg-logo="https://tv.iill.top/LOGO/21059579&huya&logo" group-title="•虎牙「影视」",电影_枪战
+https://live.iill.top/huya/21059579
+
 #EXTINF:-1 tvg-id="春晚83" tvg-name="春晚83" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv//春晚83.png" group-title="历年春晚",春晚83
 http://txmov2.a.kwimgs.com/bs3/video-hls/5207287136834522947_hlshd15.m3u8
 #EXTINF:-1 tvg-id="春晚86" tvg-name="春晚86" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv//春晚86.png" group-title="历年春晚",春晚86
